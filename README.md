@@ -13,7 +13,6 @@ The **Locale Merger Tool** is a user-friendly program that simplifies merging mu
 The folder structure is crucial for proper operation. The tool reads from an **OG folder** (containing base XML files) and a **LANGUAGE folder** (with subfolders containing locale-specific XML files). Here’s the expected setup:
 
 ```plaintext
-```plaintext
 OG
 ├── Dictionaries
 │   ├── BaseDictionary.xml
