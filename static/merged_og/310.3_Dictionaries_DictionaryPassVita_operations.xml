@@ -68,14 +68,14 @@
     <message name="_RCAUT">
       <language id="it" value="Richiesta Autorizzazione Proposta" />
       <language id="en" value="Request Proposal Authorization" />
-      <language id="fr" value="Demande d&amp;#x27;autorisation proposée" />
+      <language id="fr" value="Demande d'autorisation proposée" />
       <language id="es" value="Pedir autorización de propuesta" />
       <language id="de" value="De_Request Proposal Authorization" />
       <language id="ro" value="Cerere de autorizare solicitată" />
       <language id="ca-ES" value="Demaneu autorització de proposta" />
       <language id="eu-ES" value="Eskatu proposamenaren baimena" />
       <language id="gl-ES" value="Pedir autorización de proposta" />
-      <language id="fr-CH" value="Demande d&amp;#x27;autorisation de proposition" />
+      <language id="fr-CH" value="Demande d'autorisation de proposition" />
       <language id="de-CH" value="Antrag auf Antragsgenehmigung" />
     <language id="pt" value="Pedir autorização de proposta" /></message>
     <message name="_SISSA">
@@ -88,7 +88,7 @@
       <language id="ca-ES" value="Sinistre sense seguiment de l’assegurança de grup" />
       <language id="eu-ES" value="Taldearen aseguruko jarraipenik gabeko ezbeharra" />
       <language id="gl-ES" value="Sinistro sen seguimento do seguro de grupo" />
-      <language id="fr-CH" value="Demande sans suivie d&amp;#x27;assurance de groupe" />
+      <language id="fr-CH" value="Demande sans suivie d'assurance de groupe" />
       <language id="de-CH" value="Schadenfall ohne Nachuntersuchung Gruppenversicherung" />
     <language id="pt" value="Sinistro sem seguimento Seguro de grupo" /></message>
     <message name="_SIMAS">
@@ -101,7 +101,7 @@
       <language id="ca-ES" value="Sinistre per defunció" />
       <language id="eu-ES" value="Heriotzagatiko istripua" />
       <language id="gl-ES" value="Sinistro por falecemento" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation pour décès" />
+      <language id="fr-CH" value="Demande d'indemnisation pour décès" />
       <language id="de-CH" value="Todesfallanspruch" />
     <language id="pt" value="Sinistro por morte" /></message>
     <message name="_EMINC">
@@ -289,14 +289,14 @@
     <message name="_VRECP">
       <language id="it" value="Cambio Recapito Polizza" />
       <language id="en" value="Change Policy Address" />
-      <language id="fr" value="Changement d&amp;#x27;adresse de la Police" />
+      <language id="fr" value="Changement d'adresse de la Police" />
       <language id="es" value="Cambiar domicilio de la póliza" />
       <language id="de" value="_Todo_Change Delivers Policy" />
       <language id="ro" value="Modificare adresă poliță" />
       <language id="ca-ES" value="Canvieu domicili de la pòlissa" />
       <language id="eu-ES" value="Aldatu polizaren helbidea" />
       <language id="gl-ES" value="Cambiar domicilio da póliza" />
-      <language id="fr-CH" value="Changement de l&amp;#x27;adresse de la police" />
+      <language id="fr-CH" value="Changement de l'adresse de la police" />
       <language id="de-CH" value="Adresse der Police ändern" />
     <language id="pt" value="Alterar morada da apólice" /></message>
     <message name="_VBENE">
@@ -361,7 +361,7 @@
       <language id="ca-ES" value="S’està obrint tasca" />
       <language id="eu-ES" value="Zeregina irekitzen" />
       <language id="gl-ES" value="Abrindo tarefa" />
-      <language id="fr-CH" value="Ouverture d&amp;#x27;un nantissement" />
+      <language id="fr-CH" value="Ouverture d'un nantissement" />
       <language id="de-CH" value="Eröffnungspfandrecht" />
     <language id="pt" value="Penhora de abertura" /></message>
     <message name="_CVINC">
@@ -380,14 +380,14 @@
     <message name="_VRESC">
       <language id="it" value="Cambio Residenza Contraente" />
       <language id="en" value="Change Of The Subscriber Address" />
-      <language id="fr" value="Changement d&amp;#x27;adresse de souscripteur" />
+      <language id="fr" value="Changement d'adresse de souscripteur" />
       <language id="es" value="Cambiar domicilio del suscriptor" />
       <language id="de" value="_Todo_Residence Change Of The Subscriber" />
       <language id="ro" value="Modificarea adresei contractantului" />
       <language id="ca-ES" value="Canvieu domicili del subscriptor" />
       <language id="eu-ES" value="Aldatu harpidedunaren helbidea" />
       <language id="gl-ES" value="Cambiar domicilio do subscritor" />
-      <language id="fr-CH" value="Changement de l&amp;#x27;adresse du souscripteur" />
+      <language id="fr-CH" value="Changement de l'adresse du souscripteur" />
       <language id="de-CH" value="Änderung der Adresse des Abonnenten" />
     <language id="pt" value="Alteração da morada do tomador" /></message>
     <message name="_VCONT">
@@ -410,7 +410,7 @@
       <language id="es" value="Cambio de oficina" />
       <language id="de" value="_Todo_Brach Office Change" />
       <language id="ro" value="Modificarea filialei" />
-      <language id="ca-ES" value="Canvi d&amp;#x27;oficina" />
+      <language id="ca-ES" value="Canvi d'oficina" />
       <language id="eu-ES" value="Bulegoaren aldaketa" />
       <language id="gl-ES" value="Cambio de oficina" />
       <language id="fr-CH" value="Modifier la succursale" />
@@ -423,7 +423,7 @@
       <language id="es" value="Cambiar datos de una parte" />
       <language id="de" value="_Todo_Change Figures Registries" />
       <language id="ro" value="Modificarea detaliilor subiectului" />
-      <language id="ca-ES" value="Canvieu dades d&amp;#x27;una part" />
+      <language id="ca-ES" value="Canvieu dades d'una part" />
       <language id="eu-ES" value="Aldatu alderdi baten datuak" />
       <language id="gl-ES" value="Cambiar datos dunha parte" />
       <language id="fr-CH" value="Modifier les détails de la partie" />
@@ -458,14 +458,14 @@
     <message name="_PIINV">
       <language id="it" value="Config. Piano Investimento" />
       <language id="en" value="Config. Investment Plan" />
-      <language id="fr" value="Config. Plan d&amp;#x27;investissement" />
+      <language id="fr" value="Config. Plan d'investissement" />
       <language id="es" value="Config.Plan de inversión" />
       <language id="de" value="_Todo_Config. Investment Plan" />
       <language id="ro" value="Config. plan de investiții" />
-      <language id="ca-ES" value="Configureu pla d&amp;#x27;inversions" />
+      <language id="ca-ES" value="Configureu pla d'inversions" />
       <language id="eu-ES" value="Konfiguratu inbertsio-plana" />
       <language id="gl-ES" value="Configurar plan de investimentos" />
-      <language id="fr-CH" value="Config.Plan d&amp;#x27;investissement" />
+      <language id="fr-CH" value="Config.Plan d'investissement" />
       <language id="de-CH" value="Konfig.Anlageplan" />
     <language id="pt" value="Config.Plano de investimento" /></message>
     <message name="_VGARI">
@@ -644,10 +644,10 @@
       <language id="es" value="Cambiar entre distintas líneas de inversión" />
       <language id="de" value="De_Switch Between Different Investment Lines" />
       <language id="ro" value="Switch între diferite linii de investiții" />
-      <language id="ca-ES" value="Canvieu entre diferents línies d&amp;#x27;inversió" />
+      <language id="ca-ES" value="Canvieu entre diferents línies d'inversió" />
       <language id="eu-ES" value="Aldatu inbertsio-lerro ezberdinen artean" />
       <language id="gl-ES" value="Cambiar entre distintas liñas de investimento" />
-      <language id="fr-CH" value="Alterner entre les lignes d&amp;#x27;investissement" />
+      <language id="fr-CH" value="Alterner entre les lignes d'investissement" />
       <language id="de-CH" value="Wechseln zwischen verschiedenen Investitionssparten" />
     <language id="pt" value="Alternar entre diferentes linhas de investimento" /></message>
     <message name="_TRAZA">
@@ -679,14 +679,14 @@
     <message name="_SCOPZ">
       <language id="it" value="Scelta Opzione Scadenza" />
       <language id="en" value="Select Option Expiry Date" />
-      <language id="fr" value="Choix d&amp;#x27;option à l&amp;#x27;échéance" />
+      <language id="fr" value="Choix d'option à l'échéance" />
       <language id="es" value="Seleccionar opción de fecha de vencimiento" />
       <language id="de" value="_Todo_Select Option Sets A Time Limit" />
       <language id="ro" value="Selectați opțiunea Data de expirare" />
       <language id="ca-ES" value="Seleccioneu opció de data de venciment" />
       <language id="eu-ES" value="Hautatu iraungitze-dataren aukera" />
       <language id="gl-ES" value="Seleccionar opción de data de vencemento" />
-      <language id="fr-CH" value="Sélectionner l&amp;#x27;option de date d&amp;#x27;expiration" />
+      <language id="fr-CH" value="Sélectionner l'option de date d'expiration" />
       <language id="de-CH" value="Option für Verfallsdatum auswählen" />
     <language id="pt" value="Selecionar data de expiração da opção" /></message>
     <message name="_RISPA">
@@ -807,7 +807,7 @@
       <language id="de-CH" value="Stornierung wegen Nichtbezahlung" />
     <language id="pt" value="Cancelamento por falta de pagamento" /></message>
     <message name="_VMODP">
-      <language id="it" value="Cambio Modalita&amp;#x27; Pagamento" />
+      <language id="it" value="Cambio Modalita' Pagamento" />
       <language id="en" value="Payment Method Change" />
       <language id="fr" value="Modification des modalités de paiement" />
       <language id="es" value="Cambio de método de pago" />
@@ -855,7 +855,7 @@
       <language id="ca-ES" value="Sinistre per defunció" />
       <language id="eu-ES" value="Heriotzagatiko istripua" />
       <language id="gl-ES" value="Sinistro por falecemento" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation pour décès" />
+      <language id="fr-CH" value="Demande d'indemnisation pour décès" />
       <language id="de-CH" value="Todesfallanspruch" />
     <language id="pt" value="Sinistro por morte" /></message>
     <message name="_SINAB">
@@ -868,7 +868,7 @@
       <language id="ca-ES" value="Sinistre per discapacitat" />
       <language id="eu-ES" value="Desgaitasunaren ondoriozko ezbeharra" />
       <language id="gl-ES" value="Sinistro por discapacidade" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation pour incapacité" />
+      <language id="fr-CH" value="Demande d'indemnisation pour incapacité" />
       <language id="de-CH" value="Anspruch auf Behinderung" />
     <language id="pt" value="Sinistro por incapacidade" /></message>
     <message name="_SINVA">
@@ -881,7 +881,7 @@
       <language id="ca-ES" value="Sinistre per incapacitat" />
       <language id="eu-ES" value="Ezgaitasun-ezbeharra" />
       <language id="gl-ES" value="Sinistro por incapacidade" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation invalidité" />
+      <language id="fr-CH" value="Demande d'indemnisation invalidité" />
       <language id="de-CH" value="Anspruch auf Behinderung" />
     <language id="pt" value="Sinistro por invalidez" /></message>
     <message name="_SIMAG">
@@ -894,7 +894,7 @@
       <language id="ca-ES" value="Sinistre per malaltia greu" />
       <language id="eu-ES" value="Gaixotasun larriagatiko istripua" />
       <language id="gl-ES" value="Sinistro por enfermidade grave" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation pour maladie grave" />
+      <language id="fr-CH" value="Demande d'indemnisation pour maladie grave" />
       <language id="de-CH" value="Anspruch bei schwerer Krankheit" />
     <language id="pt" value="Sinistro por doença grave" /></message>
     <message name="_RISTG">
@@ -911,78 +911,78 @@
       <language id="de-CH" value="Deckung des Gesamtrückkaufs" />
     <language id="pt" value="Cobertura total de resgate" /></message>
     <message name="_SINES">
-      <language id="it" value="Sinistro Inabilita&amp;#x27; Gestione Esonero Sostitutivo" />
+      <language id="it" value="Sinistro Inabilita' Gestione Esonero Sostitutivo" />
       <language id="en" value="Disability Claim Substitution Exemption Management" />
-      <language id="fr" value="Sinistre Incapacité Gestion d&amp;#x27;exonération de substitution" />
+      <language id="fr" value="Sinistre Incapacité Gestion d'exonération de substitution" />
       <language id="es" value="Gestión de exención de sustitución de siniestro por discapacidad" />
       <language id="de" value="De_Disability Claim Substitute Exemption Management" />
       <language id="ro" value="Gestiunea scutirilor de înlocuire pentru cererea de despăgubire pentru invaliditate" />
-      <language id="ca-ES" value="Gestió d&amp;#x27;exempció de substitució de sinistre per discapacitat" />
+      <language id="ca-ES" value="Gestió d'exempció de substitució de sinistre per discapacitat" />
       <language id="eu-ES" value="Desgaitasunaren ondoriozko ezbeharraren ordezkapenaren salbuespenaren kudeaketa" />
       <language id="gl-ES" value="Xestión de exención de substitución de sinistro por discapacidade" />
       <language id="fr-CH" value="Gestion de la dispense de substitution de la demande incapacité" />
       <language id="de-CH" value="Verwaltung der Substitutionsbefreiung bei Ansprüchen auf Behinderung" />
     <language id="pt" value="Gestão da isenção de substituição de sinistro por incapacidade" /></message>
     <message name="_SINEA">
-      <language id="it" value="Sinistro Inabilita&amp;#x27; Gestione Esonero Aggiuntivo" />
+      <language id="it" value="Sinistro Inabilita' Gestione Esonero Aggiuntivo" />
       <language id="en" value="Disability Claim Additional Exemption Management" />
-      <language id="fr" value="Sinistre Incapacité Gestion d&amp;#x27;exonération complémentaire" />
+      <language id="fr" value="Sinistre Incapacité Gestion d'exonération complémentaire" />
       <language id="es" value="Gestión de exención adicional de siniestro por discapacidad" />
       <language id="de" value="De_Disability Claim Additional Exemption Management" />
       <language id="ro" value="Gestiune suplimentară de scutire pentru cererea de despăgubire pentru invaliditate" />
-      <language id="ca-ES" value="Gestió d&amp;#x27;exempció addicional de sinistre per discapacitat" />
+      <language id="ca-ES" value="Gestió d'exempció addicional de sinistre per discapacitat" />
       <language id="eu-ES" value="Desgaitasunaren ondoriozko ezbeharraren salbuespen gehigarriaren kudeaketa" />
       <language id="gl-ES" value="Xestión de exención adicional de sinistro por discapacidade" />
       <language id="fr-CH" value="Gestion de la dispense supplémentaire de la demande incapacité" />
       <language id="de-CH" value="Verwaltung der zusätzlicher Befreiung bei Ansprüchen auf Behinderung" />
     <language id="pt" value="Gestão da isenção adicional de sinistro por incapacidade" /></message>
     <message name="_SIVES">
-      <language id="it" value="Sinistro Inabilita&amp;#x27; Gestione Esonero Sostitutivo" />
+      <language id="it" value="Sinistro Inabilita' Gestione Esonero Sostitutivo" />
       <language id="en" value="Disability Claim Substitution Exemption Management" />
-      <language id="fr" value="Sinistre Incapacité Gestion d&amp;#x27;exonération de substitution" />
+      <language id="fr" value="Sinistre Incapacité Gestion d'exonération de substitution" />
       <language id="es" value="Gestión de exención de sustitución de siniestro por discapacidad" />
       <language id="de" value="De_Disability Claim Substitute Exemption Management" />
       <language id="ro" value="Gestiunea scutirilor de înlocuire pentru cererea de despăgubire pentru invaliditate" />
-      <language id="ca-ES" value="Gestió d&amp;#x27;exempció de substitució de sinistre per discapacitat" />
+      <language id="ca-ES" value="Gestió d'exempció de substitució de sinistre per discapacitat" />
       <language id="eu-ES" value="Desgaitasunaren ondoriozko ezbeharraren ordezkapenaren salbuespenaren kudeaketa" />
       <language id="gl-ES" value="Xestión de exención de substitución de sinistro por discapacidade" />
       <language id="fr-CH" value="Gestion de la dispense de substitution de la demande incapacité" />
       <language id="de-CH" value="Verwaltung der Substitutionsbefreiung bei Ansprüchen auf Behinderung" />
     <language id="pt" value="Gestão da isenção de substituição de sinistro por incapacidade" /></message>
     <message name="_SIVEA">
-      <language id="it" value="Sinistro Inabilita&amp;#x27; Gestione Esonero Aggiuntivo" />
+      <language id="it" value="Sinistro Inabilita' Gestione Esonero Aggiuntivo" />
       <language id="en" value="Disability Claim Additional Exemption Management" />
-      <language id="fr" value="Sinistre Incapacité Gestion d&amp;#x27;exonération complémentaire" />
+      <language id="fr" value="Sinistre Incapacité Gestion d'exonération complémentaire" />
       <language id="es" value="Gestión de exención adicional de siniestro por discapacidad" />
       <language id="de" value="De_Disability Claim Additional Exemption Management" />
       <language id="ro" value="Gestiune suplimentară de scutire pentru cererea de despăgubire pentru invaliditate" />
-      <language id="ca-ES" value="Gestió d&amp;#x27;exempció addicional de sinistre per discapacitat" />
+      <language id="ca-ES" value="Gestió d'exempció addicional de sinistre per discapacitat" />
       <language id="eu-ES" value="Desgaitasunaren ondoriozko ezbeharraren salbuespen gehigarriaren kudeaketa" />
       <language id="gl-ES" value="Xestión de exención adicional de sinistro por discapacidade" />
       <language id="fr-CH" value="Gestion de la dispense supplémentaire de la demande incapacité" />
       <language id="de-CH" value="Verwaltung der zusätzlicher Befreiung bei Ansprüchen auf Behinderung" />
     <language id="pt" value="Gestão da isenção adicional de sinistro por incapacidade" /></message>
     <message name="_SIMES">
-      <language id="it" value="Sinistro Inabilita&amp;#x27; Gestione Esonero Sostitutivo" />
+      <language id="it" value="Sinistro Inabilita' Gestione Esonero Sostitutivo" />
       <language id="en" value="Disability Claim Substitution Exemption Management" />
-      <language id="fr" value="Sinistre Incapacité Gestion d&amp;#x27;exonération de substitution" />
+      <language id="fr" value="Sinistre Incapacité Gestion d'exonération de substitution" />
       <language id="es" value="Gestión de exención de sustitución de siniestro por discapacidad" />
       <language id="de" value="De_Disability Claim Substitute Exemption Management" />
       <language id="ro" value="Gestiunea scutirilor de înlocuire pentru cererea de despăgubire pentru invaliditate" />
-      <language id="ca-ES" value="Gestió d&amp;#x27;exempció de substitució de sinistre per discapacitat" />
+      <language id="ca-ES" value="Gestió d'exempció de substitució de sinistre per discapacitat" />
       <language id="eu-ES" value="Desgaitasunaren ondoriozko ezbeharraren ordezkapenaren salbuespenaren kudeaketa" />
       <language id="gl-ES" value="Xestión de exención de substitución de sinistro por discapacidade" />
       <language id="fr-CH" value="Gestion de la dispense de substitution de la demande incapacité" />
       <language id="de-CH" value="Verwaltung der Substitutionsbefreiung bei Ansprüchen auf Behinderung" />
     <language id="pt" value="Gestão da isenção de substituição de sinistro por incapacidade" /></message>
     <message name="_SIMEA">
-      <language id="it" value="Sinistro Inabilita&amp;#x27; Gestione Esonero Aggiuntivo" />
+      <language id="it" value="Sinistro Inabilita' Gestione Esonero Aggiuntivo" />
       <language id="en" value="Disability Claim Additional Exemption Management" />
-      <language id="fr" value="Sinistre Incapacité Gestion d&amp;#x27;exonération complémentaire" />
+      <language id="fr" value="Sinistre Incapacité Gestion d'exonération complémentaire" />
       <language id="es" value="Gestión de exención adicional de siniestro por discapacidad" />
       <language id="de" value="De_Disability Claim Additional Exemption Management" />
       <language id="ro" value="Gestiune suplimentară de scutire pentru cererea de despăgubire pentru invaliditate" />
-      <language id="ca-ES" value="Gestió d&amp;#x27;exempció addicional de sinistre per discapacitat" />
+      <language id="ca-ES" value="Gestió d'exempció addicional de sinistre per discapacitat" />
       <language id="eu-ES" value="Desgaitasunaren ondoriozko ezbeharraren salbuespen gehigarriaren kudeaketa" />
       <language id="gl-ES" value="Xestión de exención adicional de sinistro por discapacidade" />
       <language id="fr-CH" value="Gestion de la dispense supplémentaire de la demande incapacité" />
@@ -998,7 +998,7 @@
       <language id="ca-ES" value="Rescat de l’assegurança total finalitzada" />
       <language id="eu-ES" value="Aseguruaren guztizkoaren erreskatea amaitu da" />
       <language id="gl-ES" value="Rescate do seguro total rematada" />
-      <language id="fr-CH" value="Couverture de rachat totale Fin de l&amp;#x27;année" />
+      <language id="fr-CH" value="Couverture de rachat totale Fin de l'année" />
       <language id="de-CH" value="Rückkauf insgesamt Deckung beendet" />
     <language id="pt" value="Cobertura total de resgate terminada" /></message>
     <message name="_EANCO">
@@ -1024,7 +1024,7 @@
       <language id="ca-ES" value="Cancel·lació per altres causes" />
       <language id="eu-ES" value="Ezeztatzea beste kausengatik" />
       <language id="gl-ES" value="Cancelación por outras causas" />
-      <language id="fr-CH" value="Annulation pour d&amp;#x27;autres causes" />
+      <language id="fr-CH" value="Annulation pour d'autres causes" />
       <language id="de-CH" value="Stornierung aus anderen Gründen" />
     <language id="pt" value="Cancelamento por outras causas" /></message>
     <message name="_ANREC">
@@ -1047,7 +1047,7 @@
       <language id="es" value="Retirada durante el periodo de acuerdos finalizada" />
       <language id="de" value="_Todo_Concluded Recess" />
       <language id="ro" value="Retragere încheiată" />
-      <language id="ca-ES" value="Retirada durant el període d&amp;#x27;acords finalitzada" />
+      <language id="ca-ES" value="Retirada durant el període d'acords finalitzada" />
       <language id="eu-ES" value="Erabaki-aldiko ateratzea amaitu da" />
       <language id="gl-ES" value="Retirada durante o período de acordos rematada" />
       <language id="fr-CH" value="Retrait pendant la période de réflexion finalisé" />
@@ -1063,11 +1063,11 @@
       <language id="ca-ES" value="Anul·leu cancel·lació per altres causes" />
       <language id="eu-ES" value="Baliogabetu ezeztatzea beste kausengatik" />
       <language id="gl-ES" value="Anular cancelación por outras causas" />
-      <language id="fr-CH" value="Annuler Annulation pour d&amp;#x27;autres causes" />
+      <language id="fr-CH" value="Annuler Annulation pour d'autres causes" />
       <language id="de-CH" value="Stornierung aus anderen Gründen stornieren" />
     <language id="pt" value="Cancelar cancelamento por outras causas" /></message>
     <message name="_VPRFR">
-      <language id="it" value="Variazione Premio e Periodicita&amp;#x27;" />
+      <language id="it" value="Variazione Premio e Periodicita'" />
       <language id="en" value="Premium And Payment Frequency Amendment" />
       <language id="fr" value="Variation de prime et Périodicité" />
       <language id="es" value="Modificación de frecuencia de pago y prima" />
@@ -1089,7 +1089,7 @@
       <language id="ca-ES" value="Sinistre sense seguiment" />
       <language id="eu-ES" value="Jarraipenik gabeko ezbeharra" />
       <language id="gl-ES" value="Sinistro sen seguimento" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation sans suivi" />
+      <language id="fr-CH" value="Demande d'indemnisation sans suivi" />
       <language id="de-CH" value="Anspruch ohne Nachverfolgung" />
     <language id="pt" value="Sinistro sem acompanhamento" /></message>
     <message name="_ANINS">
@@ -1102,20 +1102,20 @@
       <language id="ca-ES" value="Pòlissa impagada" />
       <language id="eu-ES" value="Poliza ordaingabea" />
       <language id="gl-ES" value="Póliza impagada" />
-      <language id="fr-CH" value="Police en matière d&amp;#x27;insolvabilité" />
+      <language id="fr-CH" value="Police en matière d'insolvabilité" />
       <language id="de-CH" value="Insolvenz-Police" />
     <language id="pt" value="Apólice de insolvência" /></message>
     <message name="_AANIN">
       <language id="it" value="Annullo Insolvenza" />
       <language id="en" value="Cancel Insolvency" />
-      <language id="fr" value="Annulation d&amp;#x27;insolvabilité" />
+      <language id="fr" value="Annulation d'insolvabilité" />
       <language id="es" value="Cancelar la insolvencia" />
       <language id="de" value="_Todo_Cancel Insolvency" />
       <language id="ro" value="Anulați insolvența" />
       <language id="ca-ES" value="Cancel·leu la insolvència" />
       <language id="eu-ES" value="Utzi kaudimengabezia" />
       <language id="gl-ES" value="Cancelar a insolvencia" />
-      <language id="fr-CH" value="Annuler l&amp;#x27;insolvabilité" />
+      <language id="fr-CH" value="Annuler l'insolvabilité" />
       <language id="de-CH" value="Insolvenz aufheben" />
     <language id="pt" value="Cancelar insolvência" /></message>
     <message name="_RIAIN">
@@ -1125,10 +1125,10 @@
       <language id="es" value="Reactivación de insolvencia" />
       <language id="de" value="_Todo_Reactivation From Insolvency" />
       <language id="ro" value="Reactivare din insolvență" />
-      <language id="ca-ES" value="Reactivació d&amp;#x27;insolvència" />
+      <language id="ca-ES" value="Reactivació d'insolvència" />
       <language id="eu-ES" value="Kaudimengabeziaren berraktibatzea" />
       <language id="gl-ES" value="Reactivación de insolvencia" />
-      <language id="fr-CH" value="Réactivation à la suite d&amp;#x27;une insolvabilité" />
+      <language id="fr-CH" value="Réactivation à la suite d'une insolvabilité" />
       <language id="de-CH" value="Reaktivierung aus der Insolvenz" />
     <language id="pt" value="Reativação a partir de insolvência" /></message>
     <message name="_AANRE">
@@ -1206,7 +1206,7 @@
       <language id="ca-ES" value="Cancel·leu el sinistre per defunció" />
       <language id="eu-ES" value="Heriotzagatiko istripua ezeztatu" />
       <language id="gl-ES" value="Cancelar o sinistro por falecemento" />
-      <language id="fr-CH" value="Annuler la demande d&amp;#x27;indemnisation en cas de décès" />
+      <language id="fr-CH" value="Annuler la demande d'indemnisation en cas de décès" />
       <language id="de-CH" value="Todesfallanspruch stornieren" />
     <language id="pt" value="Cancelar sinistro por morte" /></message>
     <message name="_ASINA">
@@ -1219,7 +1219,7 @@
       <language id="ca-ES" value="Cancel·leu sinistre per discapacitat" />
       <language id="eu-ES" value="Utzi desgaitasunaren ondoriozko ezbeharra" />
       <language id="gl-ES" value="Cancelar sinistro por discapacidade" />
-      <language id="fr-CH" value="Annuler la demande d&amp;#x27;indemnisation pour invalidité" />
+      <language id="fr-CH" value="Annuler la demande d'indemnisation pour invalidité" />
       <language id="de-CH" value="Anspruch auf Behinderung stornieren" />
     <language id="pt" value="Cancelar sinistro por incapacidade" /></message>
     <message name="_ASINV">
@@ -1232,7 +1232,7 @@
       <language id="ca-ES" value="Cancel·leu sinistre per incapacitat" />
       <language id="eu-ES" value="Utzi ezgaitasunaren ondoriozko ezbeharra" />
       <language id="gl-ES" value="Cancelar sinistro por incapacidade" />
-      <language id="fr-CH" value="Annuler la demande d&amp;#x27;indemnisation pour invalidité" />
+      <language id="fr-CH" value="Annuler la demande d'indemnisation pour invalidité" />
       <language id="de-CH" value="Anspruch auf Behinderung stornieren" />
     <language id="pt" value="Cancelar sinistro por invalidade" /></message>
     <message name="_ASIMA">
@@ -1245,13 +1245,13 @@
       <language id="ca-ES" value="Cancel·leu sinistre per malaltia greu" />
       <language id="eu-ES" value="Utzi gaixotasun larriaren ondoriozko ezbeharra" />
       <language id="gl-ES" value="Cancelar sinistro por enfermidade grave" />
-      <language id="fr-CH" value="Annuler la demande d&amp;#x27;indemnisation pour maladie grave" />
+      <language id="fr-CH" value="Annuler la demande d'indemnisation pour maladie grave" />
       <language id="de-CH" value="Anspruch auf schwere Krankheit stornieren" />
     <language id="pt" value="Cancelar sinistro por doença grave" /></message>
     <message name="_ADIFF">
       <language id="it" value="Annullo Differimento" />
       <language id="en" value="Cancel Deferment" />
-      <language id="fr" value="Annulation de report d&amp;#x27;échéance" />
+      <language id="fr" value="Annulation de report d'échéance" />
       <language id="es" value="Cancelar aplazamiento" />
       <language id="de" value="_Todo_Cancel Postponement" />
       <language id="ro" value="Anulați amânarea" />
@@ -1264,14 +1264,14 @@
     <message name="_ASCAD">
       <language id="it" value="Annullo Scadenza" />
       <language id="en" value="Cancel Expiry Date" />
-      <language id="fr" value="Annulation d&amp;#x27;échéance" />
+      <language id="fr" value="Annulation d'échéance" />
       <language id="es" value="Cancelar fecha de vencimiento" />
       <language id="de" value="De_Cancel Expiry" />
       <language id="ro" value="Anulați data de expirare" />
       <language id="ca-ES" value="Cancel·leu data de venciment" />
       <language id="eu-ES" value="Utzi epemuga" />
       <language id="gl-ES" value="Cancelar data de vencemento" />
-      <language id="fr-CH" value="Annuler date d&amp;#x27;expiration" />
+      <language id="fr-CH" value="Annuler date d'expiration" />
       <language id="de-CH" value="Verfallsdatum stornieren" />
     <language id="pt" value="Cancelar data de expiração" /></message>
     <message name="_ARIDU">
@@ -1323,13 +1323,13 @@
       <language id="ca-ES" value="Data de caducitat" />
       <language id="eu-ES" value="Iraungitze-data" />
       <language id="gl-ES" value="Data de caducidade" />
-      <language id="fr-CH" value="Date d&amp;#x27;expiration" />
+      <language id="fr-CH" value="Date d'expiration" />
       <language id="de-CH" value="Verfallsdatum" />
     <language id="pt" value="Data de expiração" /></message>
     <message name="_DIFFE">
       <language id="it" value="Differimento" />
       <language id="en" value="Deferment" />
-      <language id="fr" value="Report d&amp;#x27;échéance" />
+      <language id="fr" value="Report d'échéance" />
       <language id="es" value="Aplazamiento" />
       <language id="de" value="_Todo_Deferment" />
       <language id="ro" value="Amânare" />
@@ -1349,7 +1349,7 @@
       <language id="ca-ES" value="Renovació de data de venciment" />
       <language id="eu-ES" value="Epemuga berritu" />
       <language id="gl-ES" value="Renovación da data de vencemento" />
-      <language id="fr-CH" value="Date d&amp;#x27;expiration du renouvellement" />
+      <language id="fr-CH" value="Date d'expiration du renouvellement" />
       <language id="de-CH" value="Prolongation Verfallsdatum" />
     <language id="pt" value="Data de expiração da renovação" /></message>
     <message name="_SCACO">
@@ -1362,7 +1362,7 @@
       <language id="ca-ES" value="Data de venciment anterior" />
       <language id="eu-ES" value="Aurreko epemuga" />
       <language id="gl-ES" value="Data de vencemento anterior" />
-      <language id="fr-CH" value="Date d&amp;#x27;expiration écoulée" />
+      <language id="fr-CH" value="Date d'expiration écoulée" />
       <language id="de-CH" value="Verfallsdatum überschritten" />
     <language id="pt" value="Data de expiração passada" /></message>
     <message name="_RENDI">
@@ -1385,7 +1385,7 @@
       <language id="es" value="Periodo de reflexión" />
       <language id="de" value="De_Cooling Off Period" />
       <language id="ro" value="Reconsiderare" />
-      <language id="ca-ES" value="Període d&amp;#x27;acords" />
+      <language id="ca-ES" value="Període d'acords" />
       <language id="eu-ES" value="Erabaki-aldia" />
       <language id="gl-ES" value="Período de acordos" />
       <language id="fr-CH" value="Délai de réflexion" />
@@ -1411,10 +1411,10 @@
       <language id="es" value="Insertar acuerdos de exclusión" />
       <language id="de" value="_Todo_Inserting Exclusion Conventions" />
       <language id="ro" value="Introduceți acorduri de excludere" />
-      <language id="ca-ES" value="Introduïu acords d&amp;#x27;exclusió" />
+      <language id="ca-ES" value="Introduïu acords d'exclusió" />
       <language id="eu-ES" value="Txertatu esklusio-erabakiak" />
       <language id="gl-ES" value="Inserir acordos de exclusión" />
-      <language id="fr-CH" value="Insérer les accords d&amp;#x27;exclusion" />
+      <language id="fr-CH" value="Insérer les accords d'exclusion" />
       <language id="de-CH" value="Ausschlussvereinbarungen einfügen" />
     <language id="pt" value="Inserir acordos de exclusão" /></message>
     <message name="_VRIST">
@@ -1531,7 +1531,7 @@
       <language id="ca-ES" value="Cancel·lació de cobraments" />
       <language id="eu-ES" value="Kobrantzaren ezeztatzea" />
       <language id="gl-ES" value="Cancelación de cobramentos" />
-      <language id="fr-CH" value="Contre-passation de l&amp;#x27;encaissement" />
+      <language id="fr-CH" value="Contre-passation de l'encaissement" />
       <language id="de-CH" value="Rückgängigmachung der Vereinnahme" />
     <language id="pt" value="Estorno da cobrança" /></message>
     <message name="_QRSUP">
@@ -1550,20 +1550,20 @@
     <message name="_ANAPP">
       <language id="it" value="Annullo Appendice" />
       <language id="en" value="Endorsement Cancellation" />
-      <language id="fr" value="Annulation d&amp;#x27;avenant" />
+      <language id="fr" value="Annulation d'avenant" />
       <language id="es" value="Cancelación de la autorización" />
       <language id="de" value="De_Appendix Cancellation" />
       <language id="ro" value="Anulare anexă" />
       <language id="ca-ES" value="Cancel·lació de l’autorització" />
       <language id="eu-ES" value="Baimenaren ezeztatzea" />
       <language id="gl-ES" value="Cancelación da autorización" />
-      <language id="fr-CH" value="Annulation d&amp;#x27;une approbation" />
+      <language id="fr-CH" value="Annulation d'une approbation" />
       <language id="de-CH" value="Stornierung des Nachtrags" />
     <language id="pt" value="Cancelamento do endosso" /></message>
     <message name="_CPRES">
       <language id="it" value="Concessione Prestito" />
       <language id="en" value="Loan Permission" />
-      <language id="fr" value="Consentement d&amp;#x27;un prêt" />
+      <language id="fr" value="Consentement d'un prêt" />
       <language id="es" value="Autorización de préstamo" />
       <language id="de" value="De_Loan Permission" />
       <language id="ro" value="Acordarea împrumutului" />
@@ -1622,7 +1622,7 @@
       <language id="ca-ES" value="Sinistre per defunció finalitzada per a beneficiari individual" />
       <language id="eu-ES" value="Heriotzaren ondoriozko ezbeharra amaitu da banako onuradunarentzako" />
       <language id="gl-ES" value="Sinistro por falecemento rematada para beneficiario individual" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation en cas de décès pour un bénéficiaire unique complétée" />
+      <language id="fr-CH" value="Demande d'indemnisation en cas de décès pour un bénéficiaire unique complétée" />
       <language id="de-CH" value="Anspruch auf Todesfall für einen einzigen Begünstigten abgeschlossen" />
     <language id="pt" value="Sinistro por morte finalizado para um único beneficiário" /></message>
     <message name="_ARELI">
@@ -1674,7 +1674,7 @@
       <language id="ca-ES" value="Data de venciment finalitzada per a beneficiari individual" />
       <language id="eu-ES" value="Epemuga amaitu da banako onuradunarentzako" />
       <language id="gl-ES" value="Data de vencemento rematada para beneficiario individual" />
-      <language id="fr-CH" value="Date d&amp;#x27;expiration pour un bénéficiaire unique complétée" />
+      <language id="fr-CH" value="Date d'expiration pour un bénéficiaire unique complétée" />
       <language id="de-CH" value="Verfallsdatum beendet für einen einzelnen Begünstigten" />
     <language id="pt" value="Data de expiração terminada para um único beneficiário" /></message>
     <message name="_SIVLI">
@@ -1687,7 +1687,7 @@
       <language id="ca-ES" value="Sinistre per incapacitat finalitzada per a beneficiari individual" />
       <language id="eu-ES" value="Ezgaitasunaren ondoriozko ezbeharra amaitu da banako onuradunarentzako" />
       <language id="gl-ES" value="Sinistro por incapacidade rematada para beneficiario individual" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation invalidité pour un bénéficiaire unique complétée" />
+      <language id="fr-CH" value="Demande d'indemnisation invalidité pour un bénéficiaire unique complétée" />
       <language id="de-CH" value="Anspruch auf Behinderung für einen einzigen Begünstigten abgeschlossen" />
     <language id="pt" value="Sinistro por invalidez concluído para um único beneficiário" /></message>
     <message name="_RTOLI">
@@ -1700,7 +1700,7 @@
       <language id="ca-ES" value="Rescat anticipat de pensió individual per a beneficiari individual" />
       <language id="eu-ES" value="Banako pentsioko aurreikusitako erreskatea amaitu da banako onuradunarentzako" />
       <language id="gl-ES" value="Rescate anticipado de pensión individual para beneficiario individual" />
-      <language id="fr-CH" value="Rachat anticipé d&amp;#x27;une pension individuelle pour un seul bénéficiaire complétée" />
+      <language id="fr-CH" value="Rachat anticipé d'une pension individuelle pour un seul bénéficiaire complétée" />
       <language id="de-CH" value="Vorzeitiger Rückkauf einer individuellen Rente für einen einzelnen Begünstigten abgeschlossen" />
     <language id="pt" value="Resgate antecipado de pensão individual finalizado para um único beneficiário" /></message>
     <message name="_RTGLI">
@@ -1726,7 +1726,7 @@
       <language id="ca-ES" value="Sinistre per discapacitat finalitzada per a beneficiari individual" />
       <language id="eu-ES" value="Desgaitasunaren ondoriozko ezbeharra amaitu da banako onuradunarentzako" />
       <language id="gl-ES" value="Sinistro por discapacidade rematada para beneficiario individual" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation pour invalidité pour un bénéficiaire unique complétée" />
+      <language id="fr-CH" value="Demande d'indemnisation pour invalidité pour un bénéficiaire unique complétée" />
       <language id="de-CH" value="Anspruch auf Behinderung für einen einzelnen Begünstigten abgeschlossen" />
     <language id="pt" value="Sinistro por incapacidade finalizado para um único beneficiário" /></message>
     <message name="_SMGLI">
@@ -1739,7 +1739,7 @@
       <language id="ca-ES" value="Sinistre per malaltia greu per a beneficiari individual" />
       <language id="eu-ES" value="Gaixotasun larriaren ondoriozko ezbeharra banako onuradunarentzako" />
       <language id="gl-ES" value="Sinistro por enfermidade grave para beneficiario individual" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation pour maladie grave pour un bénéficiaire unique complétée" />
+      <language id="fr-CH" value="Demande d'indemnisation pour maladie grave pour un bénéficiaire unique complétée" />
       <language id="de-CH" value="Anspruch auf schwere Krankheit für einen einzelnen Begünstigten abgeschlossen" />
     <language id="pt" value="Sinistro por doença grave finalizado para um único beneficiário" /></message>
     <message name="_EANLI">
@@ -1765,7 +1765,7 @@
       <language id="ca-ES" value="Pagament amb descompte finalitzat per a beneficiari individual" />
       <language id="eu-ES" value="Deskontudun ordainketa amaitu da banako onuradunarentzako" />
       <language id="gl-ES" value="Pagamento con desconto rematado para beneficiario individual" />
-      <language id="fr-CH" value="Paiement de l&amp;#x27;escompte pour un seul bénéficiaire complétée" />
+      <language id="fr-CH" value="Paiement de l'escompte pour un seul bénéficiaire complétée" />
       <language id="de-CH" value="Diskontzahlung bei einzelnem Begünstigten abgeschlossen" />
     <language id="pt" value="Pagamento de desconto finalizado para um único beneficiário" /></message>
     <message name="_TROLI">
@@ -1856,7 +1856,7 @@
       <language id="ca-ES" value="Sinistre" />
       <language id="eu-ES" value="Istripua" />
       <language id="gl-ES" value="Sinistro" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation" />
+      <language id="fr-CH" value="Demande d'indemnisation" />
       <language id="de-CH" value="Anspruch" />
     <language id="pt" value="Sinistro" /></message>
     <message name="_CEDO">
@@ -1908,7 +1908,7 @@
       <language id="ca-ES" value="Finalitzat el sinistre per invalidesa" />
       <language id="eu-ES" value="Baliaezintasunagatiko istripua amaitu da" />
       <language id="gl-ES" value="Rematado o sinistro por invalidez" />
-      <language id="fr-CH" value="Finalisation de la demande d&amp;#x27;indemnisation pour invalidité" />
+      <language id="fr-CH" value="Finalisation de la demande d'indemnisation pour invalidité" />
       <language id="de-CH" value="Anspruch auf Behinderung abgeschlossen" />
     <language id="pt" value="Sinistro por invalidez finalizado" /></message>
     <message name="_EMERS">
@@ -1918,7 +1918,7 @@
       <language id="es" value="Regularización de la póliza" />
       <language id="de" value="De_Emersion Policy" />
       <language id="ro" value="Polița emisă" />
-      <language id="ca-ES" value="Pòlissa d&amp;#x27;emersió" />
+      <language id="ca-ES" value="Pòlissa d'emersió" />
       <language id="eu-ES" value="Agerpenaren poliza" />
       <language id="gl-ES" value="Póliza de emersión" />
       <language id="fr-CH" value="Régularisation de la police" />
@@ -1931,7 +1931,7 @@
       <language id="es" value="Calcular el impuesto especial anual Impuesto de actos jurídicos documentados" />
       <language id="de" value="De_Calculate Annual Special Tax Stamp Duty" />
       <language id="ro" value="Calculați taxa anuală specială de timbru fiscal" />
-      <language id="ca-ES" value="Calculeu l’impost especial de anual Impost d&amp;#x27;actes jurídics documentats" />
+      <language id="ca-ES" value="Calculeu l’impost especial de anual Impost d'actes jurídics documentats" />
       <language id="eu-ES" value="Egintza juridiko dokumentatuen urteko zerga berezia kalkulatu" />
       <language id="gl-ES" value="Calcular o imposto especial anual Imposto de actos xurídicos documentados" />
       <language id="fr-CH" value="Calculer le droit de timbre spécial annuel" />
@@ -1944,7 +1944,7 @@
       <language id="es" value="Procedimiento de pago del impuesto especial de actos jurídicos documentados" />
       <language id="de" value="De_Special Tax Stamp Duty Payment Procedure" />
       <language id="ro" value="Procedura specială de plată a taxei de timbru fiscal" />
-      <language id="ca-ES" value="Procediment de pagament de l’impost especial d&amp;#x27;actes jurídics documentats" />
+      <language id="ca-ES" value="Procediment de pagament de l’impost especial d'actes jurídics documentats" />
       <language id="eu-ES" value="Egintza juridiko dokumentatuen zerga berezia ordaintzeko prozedura" />
       <language id="gl-ES" value="Procedemento de pagamento do imposto especial de actos xurídicos documentados" />
       <language id="fr-CH" value="Procédure de paiement du droit de timbre fiscal spécial" />
@@ -1960,26 +1960,26 @@
       <language id="ca-ES" value="Sinistre per defunció finalitzat" />
       <language id="eu-ES" value="Heriotzaren ondoriozko ezbeharra amaitu da" />
       <language id="gl-ES" value="Sinistro por falecemento rematado" />
-      <language id="fr-CH" value="Finalisation de la demande d&amp;#x27;indemnisation en cas de décès" />
+      <language id="fr-CH" value="Finalisation de la demande d'indemnisation en cas de décès" />
       <language id="de-CH" value="Todesfallanspruch abgeschlossen" />
     <language id="pt" value="Sinistro por morte finalizado" /></message>
     <message name="_AVVSC">
       <language id="it" value="Avviso Scadenza" />
       <language id="en" value="Expiry Date Reminder" />
-      <language id="fr" value="Avis d&amp;#x27;échéance" />
+      <language id="fr" value="Avis d'échéance" />
       <language id="es" value="Recordatorio de fecha de vencimiento" />
       <language id="de" value="De_Expiry Reminder" />
       <language id="ro" value="Notificare privind expirarea" />
       <language id="ca-ES" value="Recordatori de data de venciment" />
       <language id="eu-ES" value="Epemugaren gogorarazpena" />
       <language id="gl-ES" value="Recordatorio de data de vencemento" />
-      <language id="fr-CH" value="Avis de date d&amp;#x27;expiration" />
+      <language id="fr-CH" value="Avis de date d'expiration" />
       <language id="de-CH" value="Erinnerung an das Verfallsdatum" />
     <language id="pt" value="Lembrete de data de expiração" /></message>
     <message name="_QPRES">
       <language id="it" value="Quietanzamento Prestiti" />
       <language id="en" value="Loan Repaying" />
-      <language id="fr" value="Quittancement d&amp;#x27;avances" />
+      <language id="fr" value="Quittancement d'avances" />
       <language id="es" value="Reembolso de préstamo" />
       <language id="de" value="De_Loan Discharging" />
       <language id="ro" value="Rambursarea împrumutului" />
@@ -1996,10 +1996,10 @@
       <language id="es" value="Calcular el impuesto anual de actos jurídicos documentados" />
       <language id="de" value="De_Calculate Annual Tax Stamp Duty" />
       <language id="ro" value="Calculați taxa anuală de timbru fiscal" />
-      <language id="ca-ES" value="Calculeu l’impost de anual d&amp;#x27;actes jurídics documentats" />
+      <language id="ca-ES" value="Calculeu l’impost de anual d'actes jurídics documentats" />
       <language id="eu-ES" value="Egintza juridiko dokumentatuen urteko zerga kalkulatu" />
       <language id="gl-ES" value="Calcular o imposto anual de actos xurídicos documentados" />
-      <language id="fr-CH" value="Calculer l&amp;#x27;impôt annuel de droit de timbre" />
+      <language id="fr-CH" value="Calculer l'impôt annuel de droit de timbre" />
       <language id="de-CH" value="Jährliche Steuer Stempelsteuer berechnen" />
     <language id="pt" value="Calcular imposto anual Imposto de selo" /></message>
     <message name="_CDLRA">
@@ -2025,7 +2025,7 @@
       <language id="ca-ES" value="Cupó liquidat" />
       <language id="eu-ES" value="Kupoia likidatu da" />
       <language id="gl-ES" value="Cupón liquidado" />
-      <language id="fr-CH" value="Règlement de l&amp;#x27;escompte" />
+      <language id="fr-CH" value="Règlement de l'escompte" />
       <language id="de-CH" value="Duskontabrechnung" />
     <language id="pt" value="Liquidação de desconto" /></message>
     <message name="_CLICO">
@@ -2038,7 +2038,7 @@
       <language id="ca-ES" value="Liquidació de cupons conclosa" />
       <language id="eu-ES" value="Kupoien likidazioa osatu da" />
       <language id="gl-ES" value="Liquidación de cupóns concluída" />
-      <language id="fr-CH" value="Règlement de l&amp;#x27;escompte finalisé" />
+      <language id="fr-CH" value="Règlement de l'escompte finalisé" />
       <language id="de-CH" value="Diskontabrechnung abgeschlossen" />
     <language id="pt" value="Liquidação de desconto finalizada" /></message>
     <message name="_COGUL">
@@ -2051,7 +2051,7 @@
       <language id="ca-ES" value="Costos de gestió vinculats a la unitat" />
       <language id="eu-ES" value="Unitatera lotutako kostuen kudeaketa" />
       <language id="gl-ES" value="Custos de xestión vinculados á unidade" />
-      <language id="fr-CH" value="Coûts de gestion liés à l&amp;#x27;unité" />
+      <language id="fr-CH" value="Coûts de gestion liés à l'unité" />
       <language id="de-CH" value="Anteilsgebundene Verwaltungskosten" />
     <language id="pt" value="Custos de gestão associados à unidade" /></message>
     <message name="_CQTWL">
@@ -2161,14 +2161,14 @@
     <message name="_VBESC">
       <language id="it" value="Variazione Beneficiari Scadenza" />
       <language id="en" value="Change Expiry Date Of Beneficiaries" />
-      <language id="fr" value="Changement de bénéficiaires à l&amp;#x27;échéance" />
+      <language id="fr" value="Changement de bénéficiaires à l'échéance" />
       <language id="es" value="Cambio de fecha de vencimiento de los Beneficiarios" />
       <language id="de" value="De_Change Expiry For Beneficiaries" />
       <language id="ro" value="Modificare data de expirare beneficiari" />
       <language id="ca-ES" value="Canvieu venciment per beneficiaris" />
       <language id="eu-ES" value="Aldatu onuradunen epemuga" />
       <language id="gl-ES" value="Cambiar vencemento por beneficiarios" />
-      <language id="fr-CH" value="Modifier la date d&amp;#x27;expiration des bénéficiaires" />
+      <language id="fr-CH" value="Modifier la date d'expiration des bénéficiaires" />
       <language id="de-CH" value="Verfallsdatum der Begünstigten ändern" />
     <language id="pt" value="Alterar data de expiração de beneficiários" /></message>
     <message name="_VBSIN">
@@ -2181,13 +2181,13 @@
       <language id="ca-ES" value="Modificació de sinistre del beneficiari" />
       <language id="eu-ES" value="Onuradunaren ezbeharraren aldaketa" />
       <language id="gl-ES" value="Modificación de sinistro do beneficiario" />
-      <language id="fr-CH" value="Modification du bénéficiaire de la demande d&amp;#x27;indemnisation" />
+      <language id="fr-CH" value="Modification du bénéficiaire de la demande d'indemnisation" />
       <language id="de-CH" value="Änderung der Anspruchsberechtigung" />
     <language id="pt" value="Alteração do beneficiário de sinistros" /></message>
     <message name="_VESCA">
       <language id="it" value="Esclusione Applicazioni" />
       <language id="en" value="Exclude Applications" />
-      <language id="fr" value="Exlusion d&amp;#x27;applications" />
+      <language id="fr" value="Exlusion d'applications" />
       <language id="es" value="Excluir solicitudes" />
       <language id="de" value="De_Exclude Applications" />
       <language id="ro" value="Excludere cereri" />
@@ -2200,20 +2200,20 @@
     <message name="_VRINC">
       <language id="it" value="Inclusione Applicazione" />
       <language id="en" value="Include Application" />
-      <language id="fr" value="Inclusion d&amp;#x27;application" />
+      <language id="fr" value="Inclusion d'application" />
       <language id="es" value="Incluir solicitud" />
       <language id="de" value="De_Include Application" />
       <language id="ro" value="Includere cereri" />
       <language id="ca-ES" value="Incloeu sol·licitud" />
       <language id="eu-ES" value="Eskaera sartu" />
       <language id="gl-ES" value="Inserir solicitude" />
-      <language id="fr-CH" value="Inclure l&amp;#x27;application" />
+      <language id="fr-CH" value="Inclure l'application" />
       <language id="de-CH" value="Anwendung einbeziehen" />
     <language id="pt" value="Incluir requerimento" /></message>
     <message name="_CPRCO">
       <language id="it" value="Concessione Prestito Concluso" />
       <language id="en" value="Grant Of Loan Finalised" />
-      <language id="fr" value="Attribution d&amp;#x27;un prêt admise" />
+      <language id="fr" value="Attribution d'un prêt admise" />
       <language id="es" value="Concesión de crédito finalizada" />
       <language id="de" value="De_Loan Grant Concluded" />
       <language id="ro" value="Acordarea împrumutului finalizată" />
@@ -2226,7 +2226,7 @@
     <message name="_CPRLI">
       <language id="it" value="Concessione Prestito Liquidata Parzialmente" />
       <language id="en" value="Partially Paid Loan Granted" />
-      <language id="fr" value="Attribution d&amp;#x27;un prêt réglée partiellement" />
+      <language id="fr" value="Attribution d'un prêt réglée partiellement" />
       <language id="es" value="Concesión de préstamo pagado parcialmente" />
       <language id="de" value="De_Partially Liquidated Loan Grant" />
       <language id="ro" value="Împrumut acordat plătit parțial" />
@@ -2239,14 +2239,14 @@
     <message name="_RECOS">
       <language id="it" value="Costituzione Rendita" />
       <language id="en" value="Annuity Creation" />
-      <language id="fr" value="Constitution d&amp;#x27;une rente" />
+      <language id="fr" value="Constitution d'une rente" />
       <language id="es" value="Creación de pensión anual" />
       <language id="de" value="De_Annuity Creation" />
       <language id="ro" value="Crearea rentei" />
       <language id="ca-ES" value="Creació de pensió anual" />
       <language id="eu-ES" value="Urteko pentsioaren sorrera" />
       <language id="gl-ES" value="Creación de pensión anual" />
-      <language id="fr-CH" value="Création d&amp;#x27;une rente" />
+      <language id="fr-CH" value="Création d'une rente" />
       <language id="de-CH" value="Erstellung einer Lebensrente" />
     <language id="pt" value="Criação de anuidade" /></message>
     <message name="_ADBSP">
@@ -2343,20 +2343,20 @@
     <message name="_AVGAI">
       <language id="it" value="Annullo Inserimento Garanzie" />
       <language id="en" value="Cancel Covers Insertion" />
-      <language id="fr" value="Annuler l&amp;#x27;ajout de garanties" />
+      <language id="fr" value="Annuler l'ajout de garanties" />
       <language id="es" value="Cancelar inserción de coberturas" />
       <language id="de" value="De_Cancel Covers Insertion" />
       <language id="ro" value="Anulați introdcerea garanțiilor" />
       <language id="ca-ES" value="Cancel·leu introducció de cobertures" />
       <language id="eu-ES" value="Utzi estalduren txertaketa" />
       <language id="gl-ES" value="Cancelar inserción de coberturas" />
-      <language id="fr-CH" value="Annuler l&amp;#x27;insertion des couvertures" />
+      <language id="fr-CH" value="Annuler l'insertion des couvertures" />
       <language id="de-CH" value="Einfügung von Deckungen stornieren" />
     <language id="pt" value="Cancelar inserção de coberturas" /></message>
     <message name="_AANTI">
       <language id="it" value="Annullo Anticipazione" />
       <language id="en" value="Cancel Advance Payment" />
-      <language id="fr" value="Annulation d&amp;#x27;avance" />
+      <language id="fr" value="Annulation d'avance" />
       <language id="es" value="Cancelar pago anticipado" />
       <language id="de" value="De_Cancel Advance Payment" />
       <language id="ro" value="Anulați plata în avans" />
@@ -2395,14 +2395,14 @@
     <message name="_AVRAN">
       <language id="it" value="Annullo Reintegro Anticipazione" />
       <language id="en" value="Cancel Reinstatement Of Advance Payment" />
-      <language id="fr" value="Annuler le remboursement d&amp;#x27;avance" />
+      <language id="fr" value="Annuler le remboursement d'avance" />
       <language id="es" value="Cancelar la reposición del pago anticipado" />
       <language id="de" value="De_Cancel Reinstatement Of Advance Payment" />
       <language id="ro" value="Anulați restabilirea plății în avans" />
       <language id="ca-ES" value="Cancel·leu la reposició del pagament anticipat" />
       <language id="eu-ES" value="Ordainketa aurreratuaren berrezarpena ezeztatu" />
       <language id="gl-ES" value="Cancelar a reposición do pagamento anticipado" />
-      <language id="fr-CH" value="Annuler le rétablissement d&amp;#x27;un paiement anticipé" />
+      <language id="fr-CH" value="Annuler le rétablissement d'un paiement anticipé" />
       <language id="de-CH" value="Wiedereinsetzung der Vorauszahlung stornieren" />
     <language id="pt" value="Cancelar restabelecimento de pagamento antecipado" /></message>
     <message name="_AVVPE">
@@ -2447,14 +2447,14 @@
     <message name="_RICAT">
       <language id="it" value="Richiesta Attività" />
       <language id="en" value="Activity Request" />
-      <language id="fr" value="Demande d&amp;#x27;activité" />
+      <language id="fr" value="Demande d'activité" />
       <language id="es" value="Solicitud de actividad" />
       <language id="de" value="De_Activity Request" />
       <language id="ro" value="Cerere privind activitatea" />
-      <language id="ca-ES" value="Sol·licitud d&amp;#x27;activitat" />
+      <language id="ca-ES" value="Sol·licitud d'activitat" />
       <language id="eu-ES" value="Jardueraren eskaera" />
       <language id="gl-ES" value="Solicitude de actividade" />
-      <language id="fr-CH" value="Demande d&amp;#x27;activité" />
+      <language id="fr-CH" value="Demande d'activité" />
       <language id="de-CH" value="Anfrage nach Aktivität" />
     <language id="pt" value="Pedido de atividade" /></message>
     <message name="_RESCO">
@@ -2486,14 +2486,14 @@
     <message name="_AEMPR">
       <language id="it" value="Annullo Emissione Proposta" />
       <language id="en" value="Cancel Proposal Issuance" />
-      <language id="fr" value="Annulation de l&amp;#x27;émission de proposition" />
+      <language id="fr" value="Annulation de l'émission de proposition" />
       <language id="es" value="Cancelar propuesta de seguro" />
       <language id="de" value="De_Cancel Proposal Emission" />
       <language id="ro" value="Anulează Emiterea propunerii" />
-      <language id="ca-ES" value="Cancel·leu proposta d&amp;#x27;assegurança" />
+      <language id="ca-ES" value="Cancel·leu proposta d'assegurança" />
       <language id="eu-ES" value="Utzi aseguruaren proposamena" />
       <language id="gl-ES" value="Cancelar proposta de seguro" />
-      <language id="fr-CH" value="Annulation d&amp;#x27;une proposition émise" />
+      <language id="fr-CH" value="Annulation d'une proposition émise" />
       <language id="de-CH" value="Antrag Ausstellung stornieren" />
     <language id="pt" value="Cancelar emissão da proposta" /></message>
     <message name="_REVPR">
@@ -2525,7 +2525,7 @@
     <message name="_EMAPP">
       <language id="it" value="Emissione Appendice" />
       <language id="en" value="Process Endorsement" />
-      <language id="fr" value="Émission d&amp;#x27;avenant" />
+      <language id="fr" value="Émission d'avenant" />
       <language id="es" value="Procesar aprobación" />
       <language id="de" value="De_Process Appendix" />
       <language id="ro" value="Anexă proces" />
@@ -2542,7 +2542,7 @@
       <language id="es" value="Incumplimiento de aprobación" />
       <language id="de" value="De_Appendix Non-Performance" />
       <language id="ro" value="Anexă neperformanță" />
-      <language id="ca-ES" value="Incompliment d&amp;#x27;aprovació" />
+      <language id="ca-ES" value="Incompliment d'aprovació" />
       <language id="eu-ES" value="Onarpenaren ez-betetzea" />
       <language id="gl-ES" value="Incumprimento de aprobación" />
       <language id="fr-CH" value="Avenant de non-exécution" />
@@ -2551,7 +2551,7 @@
     <message name="_ESCAP">
       <language id="it" value="Esclusione Applicazione" />
       <language id="en" value="Application Exclusion" />
-      <language id="fr" value="Exclusion d&amp;#x27;application" />
+      <language id="fr" value="Exclusion d'application" />
       <language id="es" value="Exclusión de solicitud" />
       <language id="de" value="De_Application Exclusion" />
       <language id="ro" value="Excluderea cererii" />
@@ -2623,7 +2623,7 @@
       <language id="ca-ES" value="Error en cancel·lar aprovació de cessament" />
       <language id="eu-ES" value="Huts egin da uztearen onarpena ezeztatzean" />
       <language id="gl-ES" value="Fallo ao cancelar aprobación de cese" />
-      <language id="fr-CH" value="Non-annulation de l&amp;#x27;endossement de finalisation" />
+      <language id="fr-CH" value="Non-annulation de l'endossement de finalisation" />
       <language id="de-CH" value="Versäumnis, den Abschlussnachtrag zu stornieren" />
     <language id="pt" value="Não cancelamento de finalização do endosso" /></message>
     <message name="_MODPM">
@@ -2642,7 +2642,7 @@
     <message name="_INCRI">
       <language id="it" value="Inclusione Teste per Rinnovo" />
       <language id="en" value="Head Office Inclusion For Renewal" />
-      <language id="fr" value="Inclusion d&amp;#x27;avenants pour renouvellement" />
+      <language id="fr" value="Inclusion d'avenants pour renouvellement" />
       <language id="es" value="Inclusión del director de sede para renovación" />
       <language id="de" value="De_Inclusion Head For Renewal" />
       <language id="ro" value="Includerea sediului central pentru reînnoire" />
@@ -2662,7 +2662,7 @@
       <language id="ca-ES" value="Activeu eina" />
       <language id="eu-ES" value="Artxibatu tresna" />
       <language id="gl-ES" value="Activar ferramenta" />
-      <language id="fr-CH" value="Activation de l&amp;#x27;outil" />
+      <language id="fr-CH" value="Activation de l'outil" />
       <language id="de-CH" value="Aktivierung des Tools" />
     <language id="pt" value="Ativação da ferramenta" /></message>
     <message name="_MTOOL">
@@ -2688,20 +2688,20 @@
       <language id="ca-ES" value="Desactiveu eina" />
       <language id="eu-ES" value="Desgaitu tresna" />
       <language id="gl-ES" value="Desactivar ferramenta" />
-      <language id="fr-CH" value="Désactivation de l&amp;#x27;outil" />
+      <language id="fr-CH" value="Désactivation de l'outil" />
       <language id="de-CH" value="Deaktivierung des Tools" />
     <language id="pt" value="Desativação da ferramenta" /></message>
     <message name="_VCAPA">
-      <language id="it" value="Variazione Capitale In Corso D&amp;#x27;anno" />
+      <language id="it" value="Variazione Capitale In Corso D'anno" />
       <language id="en" value="Change The Capital During The Year" />
-      <language id="fr" value="Changement de capital en cours d&amp;#x27;année" />
+      <language id="fr" value="Changement de capital en cours d'année" />
       <language id="es" value="Cambiar capital durante el año" />
       <language id="de" value="De_Change The Capital During The Year" />
       <language id="ro" value="Schimbarea capitalului în timpul anului" />
       <language id="ca-ES" value="Canvieu capital durant l’any" />
       <language id="eu-ES" value="Aldatu urteko kapitala" />
       <language id="gl-ES" value="Cambiar capital durante o ano" />
-      <language id="fr-CH" value="Variation du capital au cours de l&amp;#x27;année" />
+      <language id="fr-CH" value="Variation du capital au cours de l'année" />
       <language id="de-CH" value="Kapitals während des Jahres ändern" />
     <language id="pt" value="Alterar o capital durante o ano" /></message>
     <message name="_VCAPR">
@@ -2714,7 +2714,7 @@
       <language id="ca-ES" value="Modifiqueu renovació del capital" />
       <language id="eu-ES" value="Aldatu kapitalaren berriztapena" />
       <language id="gl-ES" value="Modificar renovación do capital" />
-      <language id="fr-CH" value="Capital sur l&amp;#x27;amendement de renouvellement" />
+      <language id="fr-CH" value="Capital sur l'amendement de renouvellement" />
       <language id="de-CH" value="Kapital auf Erneuerung Änderung" />
     <language id="pt" value="Alteração de capital na renovação" /></message>
     <message name="_ARINN">
@@ -2785,14 +2785,14 @@
     <message name="TINVPL">
       <language id="it" value="Switch Invest Plan" />
       <language id="en" value="Switch Investment Plan" />
-      <language id="fr" value="Switch de Plan d&amp;#x27;investissement" />
+      <language id="fr" value="Switch de Plan d'investissement" />
       <language id="es" value="Cambiar plan de inversiones" />
       <language id="de" value="De_Switch Invest Plan" />
       <language id="ro" value="Switch plan de investiții" />
-      <language id="ca-ES" value="Canvieu pla d&amp;#x27;inversions" />
+      <language id="ca-ES" value="Canvieu pla d'inversions" />
       <language id="eu-ES" value="Aldatu inbertsio-plana" />
       <language id="gl-ES" value="Cambiar plan de investimentos" />
-      <language id="fr-CH" value="Plan d&amp;#x27;investissement de substitution" />
+      <language id="fr-CH" value="Plan d'investissement de substitution" />
       <language id="de-CH" value="Anlageplan wechseln" />
     <language id="pt" value="Alterar plano de investimento" /></message>
     <message name="TOOL">
@@ -2822,29 +2822,29 @@
       <language id="de-CH" value="Ruhestand" />
     <language id="pt" value="Reforma" /></message>
     <message name="_INOCM">
-      <language id="it" value="Cessazione Attivita&amp;#x27; con Inoccupaz. Magg. 48 Mesi" />
+      <language id="it" value="Cessazione Attivita' con Inoccupaz. Magg. 48 Mesi" />
       <language id="en" value="Employment Cessation Due To Inactivity Greater Then 48 Months" />
-      <language id="fr" value="Cessation d&amp;#x27;activité avec chômage de plus de 48 mois" />
+      <language id="fr" value="Cessation d'activité avec chômage de plus de 48 mois" />
       <language id="es" value="Cese de empleo debido a inactividad superior a 48 meses" />
       <language id="de" value="De_Cessation Activities With Work Inactivity Greater Then 48 Months" />
       <language id="ro" value="Încetarea angajării din cauza inactivității mai mare de 48 de luni" />
-      <language id="ca-ES" value="Cessament de feina a causa d&amp;#x27;inactivitat superior a 48 meses" />
+      <language id="ca-ES" value="Cessament de feina a causa d'inactivitat superior a 48 meses" />
       <language id="eu-ES" value="Lanpostuaren uztea 48 hilabete baino gehiagoko jarduera ezarengatik" />
       <language id="gl-ES" value="Cese de emprego por mor da inactividade superior a 48 meses" />
-      <language id="fr-CH" value="Cessation d&amp;#x27;emploi pour cause d&amp;#x27;inactivité de plus de 48 mois" />
+      <language id="fr-CH" value="Cessation d'emploi pour cause d'inactivité de plus de 48 mois" />
       <language id="de-CH" value="Beendigung der Beschäftigung aufgrund von Nichterwerbstätigkeit seit mehr als 48 Monaten" />
     <language id="pt" value="Cessação de emprego devido a inatividade superior a 48 meses" /></message>
     <message name="_INVAL">
-      <language id="it" value="Invalidita&amp;#x27; Tot con Rid. Lavoro A Meno" />
+      <language id="it" value="Invalidita' Tot con Rid. Lavoro A Meno" />
       <language id="en" value="Total Disability With A Reduction Of Employment Hours Of One-Third" />
       <language id="fr" value="Invalidité totale avec réduction du temps de travail" />
       <language id="es" value="Discapacidad total con una reducción de horas laborales de un tercio" />
       <language id="de" value="De_Total Disability With Reduction Of One-Third Job Time" />
       <language id="ro" value="Incapacitate totală, cu reducerea orelor de muncă de o treime" />
-      <language id="ca-ES" value="Discapacitat total amb una reducció d&amp;#x27;hores laborals d&amp;#x27;un terç" />
+      <language id="ca-ES" value="Discapacitat total amb una reducció d'hores laborals d'un terç" />
       <language id="eu-ES" value="Lanorduen herenaren murrizketa duen desgaitasun osoa" />
       <language id="gl-ES" value="Discapacidade total cunha redución de horas laborais dun terzo" />
-      <language id="fr-CH" value="Invalidité totale avec réduction d&amp;#x27;un tiers des heures de travail" />
+      <language id="fr-CH" value="Invalidité totale avec réduction d'un tiers des heures de travail" />
       <language id="de-CH" value="Vollständige Arbeitsunfähigkeit mit einer Reduzierung der Arbeitsstunden um ein Drittel" />
     <language id="pt" value="Invalidez total com redução de um terço das horas de trabalho" /></message>
     <message name="_ALTRO">
@@ -2861,16 +2861,16 @@
       <language id="de-CH" value="Sonstige" />
     <language id="pt" value="Outro" /></message>
     <message name="_MORTE">
-      <language id="it" value="Decesso Dell&amp;#x27;aderente" />
+      <language id="it" value="Decesso Dell'aderente" />
       <language id="en" value="Member Death" />
-      <language id="fr" value="Décès de l&amp;#x27;adhérent" />
+      <language id="fr" value="Décès de l'adhérent" />
       <language id="es" value="Fallecimiento del afiliado" />
       <language id="de" value="De_Member Death" />
       <language id="ro" value="Decesul membrului" />
       <language id="ca-ES" value="Defunció de l’afiliat" />
       <language id="eu-ES" value="Bazkidearen heriotza" />
       <language id="gl-ES" value="Falecemento do afiliado" />
-      <language id="fr-CH" value="Décès d&amp;#x27;un affilié" />
+      <language id="fr-CH" value="Décès d'un affilié" />
       <language id="de-CH" value="Mitglied Tod" />
     <language id="pt" value="Morte de membro" /></message>
     <message name="_SSAN">
@@ -2880,10 +2880,10 @@
       <language id="es" value="Gastos de salud para situaciones de emergencia" />
       <language id="de" value="De_Health Care Costs For The Gravest Situations" />
       <language id="ro" value="Costuri medicale pentru situații de urgență" />
-      <language id="ca-ES" value="Costos de salut per a situacions d&amp;#x27;emergència" />
+      <language id="ca-ES" value="Costos de salut per a situacions d'emergència" />
       <language id="eu-ES" value="Larrialdi-egoeretarako osasun-kostuak" />
       <language id="gl-ES" value="Custos de saúde para situacións de emerxencia" />
-      <language id="fr-CH" value="Coûts des soins de santé dans les situations d&amp;#x27;urgence" />
+      <language id="fr-CH" value="Coûts des soins de santé dans les situations d'urgence" />
       <language id="de-CH" value="Gesundheitskosten für Notfallsituationen" />
     <language id="pt" value="Custos dos cuidados de saúde em situações de emergência" /></message>
     <message name="_ACQCA">
@@ -2915,7 +2915,7 @@
     <message name="_CIG">
       <language id="it" value="Cassa Integrazione Guadagni Ordinaria o Straord" />
       <language id="en" value="Ordinary Layoff Or Extraordinary Income" />
-      <language id="fr" value="Caisse d&amp;#x27;intégration ordinaire et extraordinaire des profits" />
+      <language id="fr" value="Caisse d'intégration ordinaire et extraordinaire des profits" />
       <language id="es" value="Despido ordinario o ingreso extraordinario" />
       <language id="de" value="De_Layoffs Ordinary Or Extraord Gains" />
       <language id="ro" value="Fond de venituri obișnuite sau suplimentare" />
@@ -2935,11 +2935,11 @@
       <language id="ca-ES" value="L’índex de desocupació no és inferior a 12 mesos i no superior a 48 mesos" />
       <language id="eu-ES" value="Langabeziaren indizea ez da 12 hilabete baino gutxiagokoa eta 48 hilabete baino gehiagokoa" />
       <language id="gl-ES" value="Índice de desemprego non é inferior a 12 meses e non superior a 48 meses" />
-      <language id="fr-CH" value="Taux de chômage d&amp;#x27;au moins 12 mois et d&amp;#x27;au plus 48 mois" />
+      <language id="fr-CH" value="Taux de chômage d'au moins 12 mois et d'au plus 48 mois" />
       <language id="de-CH" value="Die Arbeitslosenquote beträgt nicht weniger als 12 Monate und nicht mehr als 48 Monate" />
     <language id="pt" value="A taxa de desemprego não é inferior a 12 meses nem superior a 48 meses" /></message>
     <message name="_MOBIL">
-      <language id="it" value="Mobilita&amp;#x27;" />
+      <language id="it" value="Mobilita'" />
       <language id="en" value="Worker Redundancy" />
       <language id="fr" value="Mobilité" />
       <language id="es" value="Cese del trabajador" />
@@ -2987,7 +2987,7 @@
       <language id="ca-ES" value="Devolució vinculada a la unitat" />
       <language id="eu-ES" value="Unitatera lotutako itzultzea" />
       <language id="gl-ES" value="Devolución vinculada á unidade" />
-      <language id="fr-CH" value="Remises Liées à l&amp;#x27;unité" />
+      <language id="fr-CH" value="Remises Liées à l'unité" />
       <language id="de-CH" value="Rabatte Anteilsgebunden" />
     <language id="pt" value="Descontos unidade associada" /></message>
     <message name="OP_ASINS">
@@ -3032,11 +3032,11 @@
     <message name="_MDATI">
       <language id="it" value="Modifica Dati Anagrafici" />
       <language id="en" value="Change Party Data" />
-      <language id="fr" value="Modification de données d&amp;#x27;état civil" />
+      <language id="fr" value="Modification de données d'état civil" />
       <language id="es" value="Cambiar datos de una parte" />
       <language id="de" value="de_Change Party Data" />
       <language id="ro" value="Modificare date ale subiectului" />
-      <language id="ca-ES" value="Canvieu dades d&amp;#x27;una part" />
+      <language id="ca-ES" value="Canvieu dades d'una part" />
       <language id="eu-ES" value="Aldatu alderdi baten datuak" />
       <language id="gl-ES" value="Cambiar datos dunha parte" />
       <language id="fr-CH" value="Modifier les données de la partie" />
@@ -3052,7 +3052,7 @@
       <language id="ca-ES" value="Sinistre per malaltia greu finalitzat" />
       <language id="eu-ES" value="Gaixotasun larriagatiko istripua amaitu da" />
       <language id="gl-ES" value="Sinistro por enfermidade grave rematado" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation pour maladie grave complétée" />
+      <language id="fr-CH" value="Demande d'indemnisation pour maladie grave complétée" />
       <language id="de-CH" value="Anspruch bei schwerwiegender Krankheit abgeschlossen" />
     <language id="pt" value="Sinistro por doença grave finalizado" /></message>
     <message name="_SIACO">
@@ -3065,7 +3065,7 @@
       <language id="ca-ES" value="Sinistre per incapacitat finalitzat" />
       <language id="eu-ES" value="Ezgaitasunagatiko istripua amaitu da" />
       <language id="gl-ES" value="Sinistro por incapacidade rematado" />
-      <language id="fr-CH" value="Demande d&amp;#x27;indemnisation pour invalidité finalisée" />
+      <language id="fr-CH" value="Demande d'indemnisation pour invalidité finalisée" />
       <language id="de-CH" value="Anspruch auf Behinderung abgeschlossen" />
     <language id="pt" value="Sinistro por incapacidade finalizado" /></message>
     <message name="_RNREV">
@@ -3117,7 +3117,7 @@
       <language id="ca-ES" value="Confirmeu rebut" />
       <language id="eu-ES" value="Berretsi ordainagiria" />
       <language id="gl-ES" value="Confirmar recibo" />
-      <language id="fr-CH" value="Confirmer l&amp;#x27;acquittement" />
+      <language id="fr-CH" value="Confirmer l'acquittement" />
       <language id="de-CH" value="Quittung bestätigen" />
     <language id="pt" value="Confirmar quitação" /></message>
     <message name="_CVPPM">
@@ -3162,11 +3162,11 @@
     <message name="_CRAPM">
       <language id="it" value="Conferma Reintegro Anticipazione" />
       <language id="en" value="Anticipation Reintegration Confirm" />
-      <language id="fr" value="Confirmation de remboursement d&amp;#x27;avance" />
+      <language id="fr" value="Confirmation de remboursement d'avance" />
       <language id="es" value="Confirmación de reinserción con antelación" />
       <language id="de" value="De_Anticipation Reintegration Confirm" />
       <language id="ro" value="Confirmare reintegrare anticipată" />
-      <language id="ca-ES" value="Confirmació d&amp;#x27;antel·lació a la reinserció" />
+      <language id="ca-ES" value="Confirmació d'antel·lació a la reinserció" />
       <language id="eu-ES" value="Berriz sartzea aldez aurretik egiaztatu" />
       <language id="gl-ES" value="Confirmación con antelación da reinserción" />
       <language id="fr-CH" value="Confirmer la réintégration anticipée" />
@@ -3234,7 +3234,7 @@
       <language id="ca-ES" value="Modificació del text lliure" />
       <language id="eu-ES" value="Testu librea aldatzea" />
       <language id="gl-ES" value="Modificación do texto libre" />
-      <language id="fr-CH" value="Message d&amp;#x27;annotation de police" />
+      <language id="fr-CH" value="Message d'annotation de police" />
       <language id="de-CH" value="Police Anmerkung Post" />
     <language id="pt" value="Publicação de nota de apólice" /></message>
     <message name="_MVCAL">
@@ -3252,11 +3252,11 @@
     <language id="pt" value="Outra razão" /></message>
     <message name="_MVCDC">
       <language id="it" value="Decesso Contraente" />
-      <language id="en" value="Policyholder&amp;#x27;s death" />
-      <language id="fr" value="fr_Policyholder&amp;#x27;s death" />
+      <language id="en" value="Policyholder's death" />
+      <language id="fr" value="fr_Policyholder's death" />
       <language id="es" value="Fallecimiento del tomador" />
-      <language id="de" value="de_Policyholder&amp;#x27;s death" />
-      <language id="ro" value="ro_Policyholder&amp;#x27;s death" />
+      <language id="de" value="de_Policyholder's death" />
+      <language id="ro" value="ro_Policyholder's death" />
       <language id="ca-ES" value="Defunció del titular de la pòlissa" />
       <language id="eu-ES" value="Polizaren jabearen heriotza" />
       <language id="gl-ES" value="Falecemento do titular da póliza" />
@@ -3338,7 +3338,7 @@
       <language id="ca-ES" value="Reactivació des de cessament" />
       <language id="eu-ES" value="Uztearen geroko berraktibazioa" />
       <language id="gl-ES" value="Reactivación desde cese" />
-      <language id="fr-CH" value="Réactivation après cessation d&amp;#x27;activité" />
+      <language id="fr-CH" value="Réactivation après cessation d'activité" />
       <language id="de-CH" value="Reaktivierung nach Beendigung" />
     <language id="pt" value="Reativação a partir de cessação" /></message>
     <message name="_AFV22">
@@ -3390,7 +3390,7 @@
       <language id="ca-ES" value="Tancament del negoci" />
       <language id="eu-ES" value="Porrota" />
       <language id="gl-ES" value="Peche do negocio" />
-      <language id="fr-CH" value="Arrêt de l&amp;#x27;activité commerciale" />
+      <language id="fr-CH" value="Arrêt de l'activité commerciale" />
       <language id="de-CH" value="Nicht mehr im Geschäft" />
     <language id="pt" value="Fora de atividade" /></message>
     <message name="_SWSTL">
@@ -3455,7 +3455,7 @@
       <language id="ca-ES" value="Hi ha una reserva de rescissió pendent de processar al contracte.Per poder procedir, cancel·leu la reserva" />
       <language id="eu-ES" value="Kontratua deuseztatzeko erreserba bat dago,erreserba bertan behera uzteko tramitatuko dena" />
       <language id="gl-ES" value="Hai unha reserva de rescisión por procesar no contrato.Para proceder, cancelar a reserva" />
-      <language id="fr-CH" value="Il y a une réservation de résiliation dans le contrat à traiter, pour procéder à l&amp;#x27;annulation de la réservation." />
+      <language id="fr-CH" value="Il y a une réservation de résiliation dans le contrat à traiter, pour procéder à l'annulation de la réservation." />
       <language id="de-CH" value="Es gibt eine Kündigungsreservierung, die auf dem Vertrag bearbeitet werden muss, um die Reservierung zu stornieren" />
     <language id="pt" value="Existe uma reserva de rescisão a ser processada no contrato, para proceder ao cancelamento da reserva" /></message>
     <message name="_SWMAS">
@@ -3473,11 +3473,11 @@
     <language id="pt" value="Alternância massiva" /></message>
     <message name="_RICCL">
       <language id="it" value="Richiesta cliente" />
-      <language id="en" value="Client&amp;#x27;s request" />
-      <language id="fr" value="fr_Client&amp;#x27;s request" />
+      <language id="en" value="Client's request" />
+      <language id="fr" value="fr_Client's request" />
       <language id="es" value="Solicitud del cliente" />
-      <language id="de" value="de_Client&amp;#x27;s request" />
-      <language id="ro" value="ro_Client&amp;#x27;s request" />
+      <language id="de" value="de_Client's request" />
+      <language id="ro" value="ro_Client's request" />
       <language id="ca-ES" value="Sol·licitud del client" />
       <language id="eu-ES" value="Bezeroaren eskaera" />
       <language id="gl-ES" value="Solicitude do cliente" />
@@ -3508,7 +3508,7 @@
       <language id="ca-ES" value="Baixa administrativa per altres motius" />
       <language id="eu-ES" value="Ezeztatze administratiboa beste arrazoiengatik" />
       <language id="gl-ES" value="Baixa administrativa por outros motivos" />
-      <language id="fr-CH" value="Annulation administrative pour d&amp;#x27;autres raisons" />
+      <language id="fr-CH" value="Annulation administrative pour d'autres raisons" />
       <language id="de-CH" value="Administrativer Widerruf aus anderen Gründen" />
     <language id="pt" value="Cancelamento administrativo por outros motivos" /></message>
     <message name="_ANCGE">

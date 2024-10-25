@@ -51,7 +51,7 @@
     <message name="RichiestaElabBatch">
       <language id="it" value="Richiesta Elab. Batch" />
       <language id="en" value="Request Proc. Batch" />
-      <language id="fr" value="Requête d&amp;#x27;élab. de  lot (Batch)" />
+      <language id="fr" value="Requête d'élab. de  lot (Batch)" />
       <language id="es" value="Solicitud de proc.Lote" />
       <language id="de" value="Request Proc. Batch" />
       <language id="ro" value="Cerere proc. Batch" />
@@ -91,19 +91,19 @@
     <message name="RichiestaAttivita">
       <language id="it" value="Richiesta Attività" />
       <language id="en" value="Activity Request" />
-      <language id="fr" value="Requête sur l&amp;#x27;activité" />
+      <language id="fr" value="Requête sur l'activité" />
       <language id="es" value="Solicitud de actividad" />
       <language id="de" value="Anfrage zur Aktivität" />
       <language id="ro" value="Cerere activitate" />
-    <language id="de-CH" value="Anfrage nach Aktivität" /><language id="fr-CH" value="Demande d&amp;#x27;activité" /><language id="pt" value="Pedido de atividade" /></message>
+    <language id="de-CH" value="Anfrage nach Aktivität" /><language id="fr-CH" value="Demande d'activité" /><language id="pt" value="Pedido de atividade" /></message>
     <message name="Appendice">
-      <language id="it" value="Appendice d&amp;#x27;ingresso e uscita" />
+      <language id="it" value="Appendice d'ingresso e uscita" />
       <language id="en" value="Entry and exit endorsment" />
-      <language id="fr" value="Avenant d&amp;#x27;entrée sortie" />
+      <language id="fr" value="Avenant d'entrée sortie" />
       <language id="es" value="Endoso de entrada y salida" />
       <language id="de" value="Ein- und Austrittsbestätigung" />
       <language id="ro" value="Avizare intrare și ieșire" />
-    <language id="de-CH" value="Eintritts- und Austrittsnachtrag" /><language id="fr-CH" value="Approbation de l&amp;#x27;entrée et de la sortie" /><language id="pt" value="Endosso de entrada e saída" /></message>
+    <language id="de-CH" value="Eintritts- und Austrittsnachtrag" /><language id="fr-CH" value="Approbation de l'entrée et de la sortie" /><language id="pt" value="Endosso de entrada e saída" /></message>
     <message name="NuovaAppendice">
       <language id="it" value="Nuova Appendice" />
       <language id="en" value="New Endorsment" />
@@ -115,19 +115,19 @@
     <message name="ElaboraAppendice">
       <language id="it" value="Conferma Appendice" />
       <language id="en" value="Confirm Endorsment" />
-      <language id="fr" value="Confirmer l&amp;#x27;avenant" />
+      <language id="fr" value="Confirmer l'avenant" />
       <language id="es" value="Confirmar endoso" />
       <language id="de" value="Versicherungsnachtrag bestätigen" />
       <language id="ro" value="Confirmați avizarea" />
-    <language id="de-CH" value="Nachtrag bestätigen" /><language id="fr-CH" value="Confirmer l&amp;#x27;approbation" /><language id="pt" value="Confirmar endosso" /></message>
+    <language id="de-CH" value="Nachtrag bestätigen" /><language id="fr-CH" value="Confirmer l'approbation" /><language id="pt" value="Confirmar endosso" /></message>
     <message name="MancatoPerfezionamentoAppendice">
       <language id="it" value="Mancato Perf. Appendice" />
       <language id="en" value="Cash Application Failure Endorsment" />
-      <language id="fr" value="Avenant d&amp;#x27;échec d&amp;#x27;imputation des paiements" />
+      <language id="fr" value="Avenant d'échec d'imputation des paiements" />
       <language id="es" value="Fallo en la validación de solicitudes de efectivo" />
       <language id="de" value="Non-performance Appendix " />
       <language id="ro" value="Avizare eșec cererii de numerar" />
-    <language id="de-CH" value="Bargeld-Antragsversagensnachtrag" /><language id="fr-CH" value="Échec de l&amp;#x27;approbation de la demande d&amp;#x27;espèces" /><language id="pt" value="Falha de endosso de requerimento de numerário" /></message>
+    <language id="de-CH" value="Bargeld-Antragsversagensnachtrag" /><language id="fr-CH" value="Échec de l'approbation de la demande d'espèces" /><language id="pt" value="Falha de endosso de requerimento de numerário" /></message>
     <message name="RescissionePM">
       <language id="it" value="Rescissione Sosp. Pag. Premi" />
       <language id="en" value="Termination due to premium payment susp." />
@@ -163,11 +163,11 @@
     <message name="OpzioneScadenzaPM">
       <language id="it" value="Opzione Scadenza" />
       <language id="en" value="Expiry Option" />
-      <language id="fr" value="Option d&amp;#x27;échéance" />
-      <language id="es" value="&amp;quot;Opción de vencimiento&amp;quot;," />
+      <language id="fr" value="Option d'échéance" />
+      <language id="es" value="&quot;Opción de vencimiento&quot;," />
       <language id="de" value="Verfallsoption" />
       <language id="ro" value="Opțiune de expirare" />
-    <language id="de-CH" value="Verfall Option" /><language id="fr-CH" value="Option d&amp;#x27;expiration" /><language id="pt" value="Opção de expiração" /></message>
+    <language id="de-CH" value="Verfall Option" /><language id="fr-CH" value="Option d'expiration" /><language id="pt" value="Opção de expiração" /></message>
     <message name="AnnMancPerf">
       <language id="it" value="Annullo Mancato Perf." />
       <language id="en" value="Cancellation for Non-Perf." />
@@ -199,15 +199,15 @@
       <language id="es" value="Cancelar propuesta de seguro" />
       <language id="de" value="Angebotserstellung stornieren" />
       <language id="ro" value="Propunere de anulare de emisiunilor" />
-    <language id="de-CH" value="Annullierung Vorschlag Emission" /><language id="fr-CH" value="Annulation d&amp;#x27;une proposition émise" /><language id="pt" value="Cancelar emissão de proposta" /></message>
+    <language id="de-CH" value="Annullierung Vorschlag Emission" /><language id="fr-CH" value="Annulation d'une proposition émise" /><language id="pt" value="Cancelar emissão de proposta" /></message>
     <message name="ModificationAppendix">
       <language id="it" value="Modifica Appendice" />
       <language id="en" value="Endorsment Modification" />
-      <language id="fr" value="Modification d&amp;#x27;avenant" />
+      <language id="fr" value="Modification d'avenant" />
       <language id="es" value="Modificación de la aprobación" />
       <language id="de" value="Versicherungsnachtrag ändern" />
       <language id="ro" value="Modificarea avizului" />
-    <language id="de-CH" value="Änderung des Nachtrags" /><language id="fr-CH" value="Modification de l&amp;#x27;approbation" /><language id="pt" value="Modificação de endosso" /></message>
+    <language id="de-CH" value="Änderung des Nachtrags" /><language id="fr-CH" value="Modification de l'approbation" /><language id="pt" value="Modificação de endosso" /></message>
     <message name="ModificationMotherPolicy">
       <language id="it" value="Modifica Dati" />
       <language id="en" value="Data Modification" />
@@ -219,7 +219,7 @@
     <message name="CancellationAbortivPerfectingAppendix">
       <language id="it" value="Annullo Mancato Perfezionamento Appendice" />
       <language id="en" value="Cancellation Not Cash Application Endorsment" />
-      <language id="fr" value="Annuler le non-parachèvement d&amp;#x27;avenant" />
+      <language id="fr" value="Annuler le non-parachèvement d'avenant" />
       <language id="es" value="Solicitud de cancelación sin efectivo" />
       <language id="de" value="Cancellation Abortiv Perfecting Appendix" />
       <language id="ro" value="Anulare Nu se acceptă cererea de numerar" />
@@ -235,7 +235,7 @@
     <message name="InclusionApplicationForRenewal">
       <language id="it" value="Inclusione Applicazioni Rinnovo" />
       <language id="en" value="Inclusion applications for renewal" />
-      <language id="fr" value="Inclusion d&amp;#x27;adhésions de renouvellement" />
+      <language id="fr" value="Inclusion d'adhésions de renouvellement" />
       <language id="es" value="Inclusión de solicitudes para renovación" />
       <language id="de" value="Einbeziehung von Vertragsverlängerungen" />
       <language id="ro" value="Cereri de includere pentru reînnoire" />
@@ -243,11 +243,11 @@
     <message name="ChangeCapitalDuringTheYear">
       <language id="it" value="Variaz. capitali in anno" />
       <language id="en" value="capital amendment during the year" />
-      <language id="fr" value="Changement de capital durant l&amp;#x27;année" />
+      <language id="fr" value="Changement de capital durant l'année" />
       <language id="es" value="modificación del capital durante el año" />
       <language id="de" value="unterjährige Kapitalveränderung" />
       <language id="ro" value="modificarea capitalului pe parcursul anului" />
-    <language id="de-CH" value="Kapitaländerung während des Jahres" /><language id="fr-CH" value="Modification du capital au cours de l&amp;#x27;année" /><language id="pt" value="alteração do capital durante o ano" /></message>
+    <language id="de-CH" value="Kapitaländerung während des Jahres" /><language id="fr-CH" value="Modification du capital au cours de l'année" /><language id="pt" value="alteração do capital durante o ano" /></message>
     <message name="VariationCapitalForRenewal">
       <language id="it" value="Variazione Capitale Rinnovo" />
       <language id="en" value="Capital variation for renewal" />
@@ -291,7 +291,7 @@
     <message name="PrenotBatch">
       <language id="it" value="Prenotazione Op. Batch" />
       <language id="en" value="Request Proc. Batch" />
-      <language id="fr" value="Réservation d&amp;#x27;op. Batch" />
+      <language id="fr" value="Réservation d'op. Batch" />
       <language id="es" value="Solicitud de proc.Lote" />
       <language id="de" value="Request Proc. Batch" />
       <language id="ro" value="Cerere proc. Batch" />
@@ -366,11 +366,11 @@
     <message name="PP_CancEmisProp">
       <language id="it" value="PM - Ann. Emissione Proposta" />
       <language id="en" value="MP - Cancel Proposal Emission" />
-      <language id="fr" value="Annuler l&amp;#x27;émission proposée de PM" />
+      <language id="fr" value="Annuler l'émission proposée de PM" />
       <language id="es" value="MP - Cancelar propuesta de seguro" />
       <language id="de" value="PP Angebotserstellung stornieren" />
       <language id="ro" value="MP - Anulare emitere propunere" />
-    <language id="de-CH" value="MP - Vorschlag Emission stornieren" /><language id="fr-CH" value="Annuler l&amp;#x27;émission de la proposition MP" /><language id="pt" value="MP - Cancelar emissão de proposta" /></message>
+    <language id="de-CH" value="MP - Vorschlag Emission stornieren" /><language id="fr-CH" value="Annuler l'émission de la proposition MP" /><language id="pt" value="MP - Cancelar emissão de proposta" /></message>
     <message name="PP_PolicyIssue">
       <language id="it" value="PM - Emissione Polizza" />
       <language id="en" value="MP - Policy issue" />
@@ -470,11 +470,11 @@
     <message name="AdequacyQuestionnaire">
       <language id="it" value="Questionario di adeguatezza" />
       <language id="en" value="Adequacy questionnaire" />
-      <language id="fr" value="Questionnaire d&amp;#x27;éligibilité" />
+      <language id="fr" value="Questionnaire d'éligibilité" />
       <language id="es" value="Cuestionario de adecuación" />
       <language id="de" value="Angemessenheit des Fragebogens" />
       <language id="ro" value="Chestionar de adecvare" />
-    <language id="de-CH" value="Fragebogen zur Angemessenheit" /><language id="fr-CH" value="Questionnaire sur l&amp;#x27;adéquation" /><language id="pt" value="Questionário de adequação" /></message>
+    <language id="de-CH" value="Fragebogen zur Angemessenheit" /><language id="fr-CH" value="Questionnaire sur l'adéquation" /><language id="pt" value="Questionário de adequação" /></message>
     <message name="SubjectDocumentModifies">
       <language id="it" value="Modifica Documenti Soggetto" />
       <language id="en" value="SubjectDocumentModifies" />
@@ -514,6 +514,6 @@
       <language id="es" value="Reserva de ahorro por no finalización" />
       <language id="de" value="Non-Completion-Saver-Reservierung" />
       <language id="ro" value="Rezervare de economisire nefinalizată" />
-    <language id="de-CH" value="Reservierung ohne Abschluss Sparer" /><language id="fr-CH" value="Non-achèvement Réservation de l&amp;#x27;économiseur" /><language id="pt" value="Reserva de poupança não concluída" /></message>
+    <language id="de-CH" value="Reservierung ohne Abschluss Sparer" /><language id="fr-CH" value="Non-achèvement Réservation de l'économiseur" /><language id="pt" value="Reserva de poupança não concluída" /></message>
   </dictionary>
 </dictionary-configuration>

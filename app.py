@@ -55,10 +55,8 @@ def upload_and_merge():
         return jsonify({"error": str(e)}), 500
 
 def process_dictionary_files(og_files, language_files):
-    """Process dictionary files from OG and LANGUAGE folders based on exact folder matching."""
     merged_files = []
 
-    # Organize LANGUAGE files by their subfolder name, mapping each OG file to its corresponding LANGUAGE folder
     language_folders = {}
     for lang_file in language_files:
         folder_name = os.path.basename(os.path.dirname(lang_file.filename))
@@ -75,7 +73,7 @@ def process_dictionary_files(og_files, language_files):
 
         logging.info("Processing OG file: %s", og_file.filename)
         
-        # Use the FileStorage `og_file` stream for parsing directly, ensuring UTF-8 encoding
+        # Use the FileStorage `og_file` stream for parsing directly
         og_tree = ET.parse(og_file.stream)
         og_root = og_tree.getroot()
 
@@ -83,17 +81,15 @@ def process_dictionary_files(og_files, language_files):
             logging.info("Using LANGUAGE file: %s", language_file.filename)
             merge_language_entries(og_root, language_file)
 
-        # Escape special characters in the final merged XML
+        # Decode and correct special characters only on output, with no re-escaping
         for message in og_root.findall(".//message"):
             for lang_entry in message.findall('language'):
                 original_value = lang_entry.get('value')
                 if original_value:
                     decoded_value = decode_special_characters(original_value)
-                    escaped_value = escape_for_xml(decoded_value)
-                    logging.debug("Original: '%s', Decoded: '%s', Escaped: '%s'", original_value, decoded_value, escaped_value)
-                    lang_entry.set('value', escaped_value)
+                    logging.debug("Original: '%s', Decoded: '%s'", original_value, decoded_value)
+                    lang_entry.set('value', decoded_value)
 
-        # Save the merged XML output to the specified MERGED_FOLDER
         output_filename = secure_filename(og_file.filename)
         output_path = os.path.join(app.config['MERGED_FOLDER'], output_filename)
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -105,8 +101,6 @@ def process_dictionary_files(og_files, language_files):
     return merged_files
 
 def merge_language_entries(og_root, language_file):
-    """Merge a specific localized language entry from a LANGUAGE file into the OG dictionary structure."""
-    # Use FileStorage `language_file` stream for parsing directly with UTF-8 encoding
     lang_tree = ET.parse(language_file.stream)
     lang_root = lang_tree.getroot()
 
@@ -141,12 +135,8 @@ def merge_language_entries(og_root, language_file):
                 og_message.append(new_lang_entry)
 
 def decode_special_characters(text):
-    """Decode special HTML or XML character entities (e.g., &#187;) to their actual symbols."""
+    """Decode special HTML or XML character entities (e.g., &#x27; to ') without re-encoding."""
     return html.unescape(text)
-
-def escape_for_xml(text):
-    """Escape special characters to make the text XML-compatible (e.g., & becomes &amp;)."""
-    return html.escape(text)
 
 if __name__ == '__main__':
     app.run(debug=True)
