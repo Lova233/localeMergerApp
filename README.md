@@ -18,6 +18,9 @@ OG
 │   ├── BaseDictionary.xml
 │   ├── PolicyDictionary.xml
 │   ├── MenuDictionary.xml
+├── Enums
+│   ├── EnumFileOne.xml
+│   ├── EnumFileTwo.xml
 LANGUAGE
 ├── BaseDictionary
 │   ├── de-CH.xml
@@ -25,19 +28,21 @@ LANGUAGE
 ├── PolicyDictionary
 │   ├── fr.xml
 │   ├── it.xml
+├── EnumFileOne
+│   ├── de-CH.xml
+│   ├── fr.xml
 ```
 ### Why Folder Structure Matters
+The folder structure ensures that translations for each dictionary and enumeration file are clearly separated by locale, minimizing errors in the merging process. By matching each subfolder in the LANGUAGE directory to its corresponding XML file in the OG directory, the tool can:
 
-The folder structure ensures that translations for each dictionary file are clearly separated by locale, minimizing errors in the merging process. By matching each subfolder in the LANGUAGE directory to its corresponding XML file in the OG directory, the tool can:
-1. Locate and update the appropriate language entries accurately.
-2. Prevent any untranslated text in the OG files from being altered.
-3. Keep new translations confined to their exact sections, preserving a clean and organized XML structure.
+- **Locate and update** the appropriate language entries accurately.
+- **Prevent untranslated text** in the OG files from being altered.
+- **Keep new translations confined** to their exact sections, preserving a clean and organized XML structure.
 
 ### Usage
-
 1. Start the program and open the upload interface.
-2. Upload the **OG** folder (containing your main dictionary XML files).
-3. Upload the **LANGUAGE** folder (with locale-specific subfolders containing translations).
+2. For **Dictionary.xml** files, upload the OG and LANGUAGE folders using **AppDictionary**.
+3. For **Enum.xml** files, upload the OG and LANGUAGE folders using **AppEnum**.
 4. Click "Generate and Download Merged Files" to receive your updated XML files.
 
 The tool will output a **MERGED-OG** folder mirroring the OG structure, with all specified translations merged.
