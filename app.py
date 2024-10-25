@@ -4,6 +4,7 @@ import os
 import html
 import logging
 from werkzeug.utils import secure_filename
+from xml.dom import minidom
 
 # Setup logging to file
 logging.basicConfig(filename="merge_process.log", level=logging.DEBUG, 
@@ -73,7 +74,6 @@ def process_dictionary_files(og_files, language_files):
 
         logging.info("Processing OG file: %s", og_file.filename)
         
-        # Use the FileStorage `og_file` stream for parsing directly
         og_tree = ET.parse(og_file.stream)
         og_root = og_tree.getroot()
 
@@ -81,21 +81,15 @@ def process_dictionary_files(og_files, language_files):
             logging.info("Using LANGUAGE file: %s", language_file.filename)
             merge_language_entries(og_root, language_file)
 
-        # Decode and correct special characters only on output, with no re-escaping
-        for message in og_root.findall(".//message"):
-            for lang_entry in message.findall('language'):
-                original_value = lang_entry.get('value')
-                if original_value:
-                    decoded_value = decode_special_characters(original_value)
-                    logging.debug("Original: '%s', Decoded: '%s'", original_value, decoded_value)
-                    lang_entry.set('value', decoded_value)
-
+        # Apply pretty-printing for the XML structure
         output_filename = secure_filename(og_file.filename)
         output_path = os.path.join(app.config['MERGED_FOLDER'], output_filename)
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        og_tree.write(output_path, encoding='utf-8')
+        
+        with open(output_path, 'w', encoding='utf-8') as file:
+            pretty_print_xml(og_tree.getroot(), file)
+        
         merged_files.append(output_path)
-
         logging.info("Merged file written to: %s", output_path)
 
     return merged_files
@@ -137,6 +131,16 @@ def merge_language_entries(og_root, language_file):
 def decode_special_characters(text):
     """Decode special HTML or XML character entities (e.g., &#x27; to ') without re-encoding."""
     return html.unescape(text)
+
+def pretty_print_xml(element, file):
+    """Pretty-print the XML to file with indented lines and no extra blank lines."""
+    rough_string = ET.tostring(element, 'utf-8')
+    reparsed = minidom.parseString(rough_string)
+    pretty_xml = reparsed.toprettyxml(indent="  ")
+
+    # Remove extra blank lines
+    no_blank_lines = "\n".join([line for line in pretty_xml.splitlines() if line.strip()])
+    file.write(no_blank_lines)
 
 if __name__ == '__main__':
     app.run(debug=True)
