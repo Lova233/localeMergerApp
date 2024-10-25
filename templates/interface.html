@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>THE SUPER MAGIC TRANSLATOR MERGER</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f5f5f5;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 2em;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 0.5em;
+            color: #333;
+        }
+        .file-group {
+            margin-bottom: 1em;
+        }
+        label {
+            display: block;
+            margin: 1em 0 0.5em;
+            font-weight: bold;
+        }
+        input[type="file"] {
+            display: none;
+        }
+        .file-input {
+            display: inline-block;
+            margin-top: 0.5em;
+            border: 2px solid #007bff;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+            padding: 0.5em 1em;
+            text-align: center;
+        }
+        .file-input:hover {
+            background-color: #0056b3;
+        }
+        .buttons {
+            margin-top: 1em;
+        }
+        button {
+            padding: 0.75em 1.5em;
+            margin: 0.5em;
+            border: none;
+            border-radius: 5px;
+            background-color: #28a745;
+            color: white;
+            font-size: 1em;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .icon {
+            font-size: 2em;
+            margin-bottom: 0.5em;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <i class="fas fa-magic icon"></i>
+        <h1>THE SUPER MAGIC TRANSLATOR MERGER</h1>
+        <form id="uploadForm" action="/upload" method="post" enctype="multipart/form-data">
+            <div class="file-group">
+                <!-- OG Folder Input -->
+                <div class="file-input">
+                    <input type="file" id="og_folder" name="og_folder" webkitdirectory directory required onchange="updateUploadSummary()">
+                    <label for="og_folder"><i class="fas fa-folder"></i> Choose OG Folder</label>
+                </div>
+                <!-- Locale Folder Input -->
+                <div class="file-input">
+                    <input type="file" id="locale_folder" name="locale_folder" webkitdirectory directory required onchange="updateUploadSummary()">
+                    <label for="locale_folder"><i class="fas fa-folder"></i> Choose Locale Folder</label>
+                </div>
+            </div>
+            <div class="buttons">
+                <button type="button" onclick="generatePreview()">Preview</button>
+                <button type="submit"><i class="fas fa-magic"></i> Generate and Download Merged Files</button>
+            </div>
+        </form>
+        <div class="upload-summary" id="upload-summary" style="display:none;">
+            <h3>Uploaded Folders Summary</h3>
+            <p id="og-summary"></p>
+            <p id="locale-summary"></p>
+        </div>
+    </div>
+    <script>
+        function updateUploadSummary() {
+            document.getElementById('upload-summary').style.display = 'none';
+        }
+
+        function generatePreview() {
+            const formData = new FormData(document.getElementById('uploadForm'));
+            fetch('/preview', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('og-summary').textContent = "OG Folder Files: " + data.og_file_count;
+                document.getElementById('locale-summary').textContent = "Locale Folder Files: " + data.locale_file_count;
+                document.getElementById('upload-summary').style.display = 'block';
+            })
+            .catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>
