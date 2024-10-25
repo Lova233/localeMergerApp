@@ -1,0 +1,18 @@
+# Ignore the merged output folder and log files
+static/
+*.log
+
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask-specific ignores
+instance/
+.env
+
+# Ignore other temporary or system files
+.DS_Store
+*.swp
+*.swo
