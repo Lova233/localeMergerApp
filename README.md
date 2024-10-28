@@ -79,3 +79,53 @@ Feel free to contribute, report issues, or suggest enhancements. Any improvement
 
 Happy merging! 😊
 
+
+
+
+script utile per noi stronzi 
+
+```bash 
+
+#!/bin/bash
+
+# Define the root directory as the current working directory
+ROOT_DIR=$(pwd)
+
+# Directories to process
+TARGET_DIRS=("Dictionaries" "Enums_xml")
+
+function restructure_files() {
+    # Loop through each target directory (Dictionaries and Enums_xml)
+    for TARGET in "${TARGET_DIRS[@]}"; do
+        # Check if the target directory exists in each date/language folder
+        for DATE_LANG_FOLDER in "$ROOT_DIR"/*/; do
+            TARGET_SUBDIR="$DATE_LANG_FOLDER/$TARGET"
+            LANG=$(basename "$DATE_LANG_FOLDER" | cut -d'_' -f2)
+
+            # If the target subdirectory exists, process its files
+            if [[ -d "$TARGET_SUBDIR" ]]; then
+                for FILE in "$TARGET_SUBDIR"/*.xml; do
+                    if [[ -f "$FILE" ]]; then
+                        # Extract base file name without the extension
+                        BASE_NAME=$(basename "$FILE" .xml)
+
+                        # Create a directory for the file in the root Dictionaries or Enums_xml
+                        DEST_DIR="$ROOT_DIR/$TARGET/$BASE_NAME"
+                        mkdir -p "$DEST_DIR"
+
+                        # Move or copy the file into the new directory, naming it by language code
+                        cp "$FILE" "$DEST_DIR/$LANG.xml"
+                    fi
+                done
+            fi
+        done
+    done
+}
+
+# Execute the function to perform restructuring
+restructure_files
+
+echo "Folder restructuring complete. Each XML file is now organized by language within $TARGET_DIRS."
+
+```
+
